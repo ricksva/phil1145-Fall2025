@@ -1,21 +1,39 @@
 ---
 layout: page
-title: Textbooks
+title: Required Course Texts and Materials
 nav_order: 5
 ---
 
-## Textbooks
+## What are the course texts and other materials?
 
-This class is a survey of many sub-areas of software engineering, and an unfortunate result of this is that there is no single textbook that is appropriate for this class. However, there are several texts that have chapters that are quite relevant, and most of these books are available for free for Northeastern students through O'Reilly's Safari Books online. To create your account, first visit this page: <https://www.safaribooksonline.com/library/view/temporary-access/> and then select "Not Listed? Click Here" for institution, then enter your @northeastern.edu email address. After this first account creation, you'll be able to log in directly to Safari Books Online with your @northeastern.edu email and no need for 2FA (hooray!). The schedule will list which chapters of which texts are relevant for each lecture:
+Buy the PRINT editions of these texts (either from the campus bookstore
+in the Curry Student Center, or elsewhere). We'll use the PRINT
+editions, not the ebook editions, of these books. **If buying them will
+be a financial hardship, then please talk to me right away.**
 
--   ["Software Engineering at Google" By Titus Winters, Tom Manshreck and Hyrum Wright](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781/) <br />
-    This book is effectively a manual that describes the software engineering practices at Google, and the rationale behind those practices
--   "The Programmer's Brain" by Felienne Hermans ([Not on Safari](https://www.manning.com/books/the-programmers-brain))<br />
-    An early-release text that links studies in human cognition to software engineering tasks like reading and writing code.
--   ["Fundamentals of Software Architecture" By Mark Richards and Neal Ford](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)<br />
-An overview of software architectural patterns and their role in successful software projects.
--   ["Refactoring: Improving the Design of Existing Code" By Martin Fowler](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)<br />
-The definitive list of "code smells" that should be avoiding in programming, matched up with "refactoring" techniques to improve that code
--   ["Learn React with TypeScript 3" by Carl Rippon](https://learning.oreilly.com/library/view/learn-react-with/9781789610253/)<br />A solid reference for React, describing how to get started, plus more advanced features like React's Router and testing using Jest
--   ["Programming TypeScript" by Boris Cherny](https://learning.oreilly.com/library/view/programming-typescript/9781492037644/)<br />A useful introduction to TypeScript, written assuming familiarity with programming in languages like Java, C# or python.
+ALWAYS bring the materials that were assigned for that day's class, to that
+day's class!
 
+1.  [Ethics for people who work in tech]{.underline}, Marc Steen
+    (paperback, CRC Press 2023)
+
+2.  [The Right To Oblivion]{.underline}, Lowry Pressly (Harvard
+    University Press 2024)
+
+3.  [How to Do Nothing]{.underline}, Jenny Odell (paperback, Melville
+    House 2019)]
+
+4.  Other readings and materials given as printed handouts or on the
+    course Canvas site and this site]
+
+5.  A paper notebook or notepad, dedicated to use in this
+    course
+
+6.  A good, English-language dictionary -- STRONGLY RECOMMENDED
+
+## What other stuff do I need to have for this course?
+
+If you have a copy of the required course materials; a reliable and strong
+Internet connection; a tablet/computer for accessing websites, email, and Canvas;
+and something to write on and write with during class, then
+you have the material stuff that you need!
