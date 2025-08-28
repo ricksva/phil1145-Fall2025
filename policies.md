@@ -143,7 +143,7 @@ need to miss class:
 - You **do not** need to contact me in advance!
 
 - **NEVER** ask me any version of, "Did I miss anything important?", since
-  of course you did.
+  of course you did...
 
 - Make time to discuss that day's materials with me. I don't record the
   class meetings, but I'm happy to answer your questions, and you can
