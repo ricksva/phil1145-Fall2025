@@ -44,35 +44,34 @@ values, and examining them creatively, carefully, and thoughtfully.
 That's sometimes called "critical thinking", but *every* academic
 discipline can teach you critical thinking! Philosophy is critical
 thinking freed of several of the boundaries that define other
-disciplines. You'll get better at that.]{.mark}
-
+disciplines. You'll get better at that.]
 **The course's *general* goals are (a) to introduce you to ethical and
 sociopolitical implications of some technologies and (b) to show you how
 to apply philosophical thinking to your (and others') responses to those
-implications.** You should be able to:{.mark}
+implications.** You should be able to:
 
 - **Demonstrate** orally and in writing your understanding of
   philosophical questions raised by and related to topics such as
-  privacy, attention, and artificial intelligence{.mark}
+  privacy, attention, and artificial intelligence
 
 - Clearly and accurately **explain** important philosophical and
   ethical concepts, such as normativity, well-being, autonomy, and moral
-  virtues{.mark}
+  virtues
 
 - Accurately and charitably **summarize and analyze** others' arguments
   for their presuppositions, strength, consistency, and
-  implications{.mark}
+  implications
 
 - **Make** **and** **improve** your own thoughtful, well-supported, and
   clearly expressed perspectives on the ethical and sociopolitical
-  dimensions of technologies{.mark}
+  dimensions of technologies
 
 - **Engage** your classmates, instructor, and others in thoughtful and
-  constructive discussions about the philosophy of technology{.mark}
+  constructive discussions about the philosophy of technology
 
 - **Apply** what you have learned in this course to your life as a
   member of a society that designs, uses, and is affected by all kinds
-  of technologies.{.mark}
+  of technologies
 
 
 ## What should I do BEFORE our class meetings? 
@@ -84,31 +83,31 @@ implications.** You should be able to:{.mark}
   examples given to support those claims. Look up unfamiliar words or
   phrases and write their definitions in your notes. If you find that
   your eyes are just passing over the words, then stop and come back
-  later.{.mark}
+  later.
 
 - Be prepared to read the assigned materials more than once. Philosophy
   can be hard to read, so you should expect to be confused about some or
   much of that reading! But don't fall back on, "I have no idea what
   they're saying". Instead, try to figure out why you're confused. Write
   down your questions in your notebook, so that you can come to class
-  prepared to discuss them.{.mark}
+  prepared to discuss them.
 
 - Next, **read the google doc Prep document for that day's class, and
   annotate it where you see fit**. The Prep document is meant to clarify
   the reading and prepare us for a good class meeting. See below for
-  more details.{.mark}
+  more details.
 
 - Next, bring the assigned materials with you to class. Be ready to
   talk together and think together. Before you get to class, do
   something that helps you focus (some light calisthenics, or some
-  meditation, or a snack), if at all possible.{.mark}
+  meditation, or a snack), if at all possible.
 
 - Note: **Don't come to class if you don't feel well or have recently
   tested positive for covid-19**, and please wear a mask to class during
   the first week of the semester. (The university forbids faculty from
   *requiring* masks, but I'm *asking* that you wear one during that time
   and whenever else you want to. Airborne viruses, unfortunately, aren't
-  "over".){.mark}
+  "over".)
 
 
 ### Acknowledgements
