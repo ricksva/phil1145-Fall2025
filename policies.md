@@ -48,15 +48,15 @@ accessing learning opportunities. **You don't have to disclose any
 disabilities or impairments to me unless you wish to receive
 accommodations for them**. See the Disability Access Service's website
 for information about requests for academic accommodations:
-[[https://disabilityaccessservices.sites.northeastern.edu]{.underline}](https://disabilityaccessservices.sites.northeastern.edu)
+[[https://disabilityaccessservices.sites.northeastern.edu]](https://disabilityaccessservices.sites.northeastern.edu)
 
 ***You'd like to confidentially discuss your health (including mental
 health)***: If you or someone you know would like to discuss
 confidential information about health (including mental health), contact
 Northeastern's Health and Counseling Services at
-([[http://www.northeastern.edu/uhcs/counseling-services/]{.underline}](http://www.northeastern.edu/uhcs/counseling-services/))
+([[http://www.northeastern.edu/uhcs/counseling-services/]](http://www.northeastern.edu/uhcs/counseling-services/))
 or We Care
-([[http://www.northeastern.edu/wecare/]{.underline}](http://www.northeastern.edu/wecare/)).
+([[http://www.northeastern.edu/wecare/]](http://www.northeastern.edu/wecare/)).
 
 ***You or someone you know has been harassed or assaulted***:
 Northeastern's Title IX Policy prohibits Prohibited Offenses, which are
@@ -65,12 +65,12 @@ violence, and stalking. The policy applies to all students, faculty, and
 staff. If you or someone you know has been harassed or assaulted, you
 can always get *confidential* support and guidance from University
 Health and Counseling Services staff
-([[http://www.northeastern.edu/uhcs/]{.underline}](http://www.northeastern.edu/uhcs/))
+([[http://www.northeastern.edu/uhcs/]](http://www.northeastern.edu/uhcs/))
 and the Center for Spiritual Dialogue and Service clergy members
-([[http://www.northeastern.edu/spirituallife/]{.underline}](http://www.northeastern.edu/spirituallife/)).
+([[http://www.northeastern.edu/spirituallife/]](http://www.northeastern.edu/spirituallife/)).
 You can report alleged violations *non-confidentially* to the Title IX
 Coordinator within The Office for Gender Equity and Compliance
-([[titleix@northeastern.edu]{.underline}](mailto:titleix@northeastern.edu))
+([[titleix@northeastern.edu]](mailto:titleix@northeastern.edu))
 and/or through NUPD (Emergency 617.373.3333; Non-Emergency
 617.373.2121). Reporting Prohibited Offenses to NUPD does *not* commit
 the victim/affected party to future legal action.
@@ -82,7 +82,7 @@ the victim/affected party to future legal action.
 
 You can find a complete list of reporting options and resources, both
 on- and off-campus, at
-[[www.northeastern.edu/titleix]{.underline}](http://www.northeastern.edu/titleix).
+[[www.northeastern.edu/titleix]](http://www.northeastern.edu/titleix).
 
 ***You or someone you know has been unfairly discriminated against***:
 The Office for University Equity and Compliance is responsible
@@ -90,7 +90,7 @@ for investigating complaints of discrimination. Any member of the
 Northeastern community who believes that they have been discriminated
 against should report the incident promptly through the [[On-Line
 Discrimination Complaint
-Form]{.underline}](https://cm.maxient.com/reportingform.php?NortheasternUniv&layout_id=7) ([[https://www.northeastern.edu/ouec/reporting-options/discrimination/]{.underline}](https://www.northeastern.edu/ouec/reporting-options/discrimination/))
+Form]](https://cm.maxient.com/reportingform.php?NortheasternUniv&layout_id=7) ([[https://www.northeastern.edu/ouec/reporting-options/discrimination/]](https://www.northeastern.edu/ouec/reporting-options/discrimination/))
 which exists to assist the complainant in formulating a concise
 statement of their allegations and goes directly to the Office for
 University Equity and Compliance.
@@ -100,30 +100,30 @@ cannot attend class, participate in required course activities, or take
 a scheduled exam because of religious observances, then I will give you
 a reasonable opportunity to make up the course work without penalty. You
 can find the university policy on religious observance at
-[[http://www.northeastern.edu/policies/pdfs/Policy_on_Instructional_Accommodations_for_Student_Religious_Observance_rsa1.pdf]{.underline}](http://www.northeastern.edu/policies/pdfs/Policy_on_Instructional_Accommodations_for_Student_Religious_Observance_rsa1.pdf).
+[[http://www.northeastern.edu/policies/pdfs/Policy_on_Instructional_Accommodations_for_Student_Religious_Observance_rsa1.pdf]](http://www.northeastern.edu/policies/pdfs/Policy_on_Instructional_Accommodations_for_Student_Religious_Observance_rsa1.pdf).
 
 ***You'd like tutoring services***: Northeastern's peer tutoring program
-([[https://undergraduate.northeastern.edu/peer-tutoring/]{.underline}](https://undergraduate.northeastern.edu/peer-tutoring/))
+([[https://undergraduate.northeastern.edu/peer-tutoring/]](https://undergraduate.northeastern.edu/peer-tutoring/))
 is free and open to all NU undergraduate students.
 
 ***You're an international student and would like tutoring or other
 support***: Northeastern's International Tutoring Center (ITC) -
-[[https://international.northeastern.edu/gss/]{.underline}](https://international.northeastern.edu/gss/) -
+[[https://international.northeastern.edu/gss/]](https://international.northeastern.edu/gss/) -
 gives Northeastern's international students free, comprehensive English
 language and academic support. The ITC includes English as a Second
 Language Tutoring (ESL), Language and Culture Workshops, and Reading
 Workshops.
 
 ***You'd like to get general help with research materials***: [[Snell
-Library]{.underline}](https://library.northeastern.edu/) offers a
+Library]](https://library.northeastern.edu/) offers a
 variety of resources for undergraduate research, including
 subject-specific [[Research
-Guides]{.underline}](https://subjectguides.lib.neu.edu/?b=g&d=a), help
+Guides]](https://subjectguides.lib.neu.edu/?b=g&d=a), help
 with citation and bibliography, and round-the-clock chat support.
 
 ***You'd like to get general help strengthening your writing***: Visit
 the NU Writing Center:
-[[http://www.northeastern.edu/writingcenter/]{.underline}](http://www.northeastern.edu/writingcenter/).
+[[http://www.northeastern.edu/writingcenter/]](http://www.northeastern.edu/writingcenter/).
 
 ***You have a concern about this course***: Please first start by
 talking with me! Although it might feel uncomfortable or even scary to
@@ -132,7 +132,7 @@ doesn't help, then you can contact the chairperson of the
 Philosophy/Religion department, Prof. Rory Smead. For information about
 formal academic appeals policies and procedures, see the 2024-25
 Undergraduate Student Handbook at
-[[https://admissions.northeastern.edu/undergraduate-student-handbook/]{.underline}](https://admissions.northeastern.edu/undergraduate-student-handbook/).
+[[https://admissions.northeastern.edu/undergraduate-student-handbook/]](https://admissions.northeastern.edu/undergraduate-student-handbook/).
 
 ## What if I miss class?
 
@@ -187,7 +187,7 @@ use unauthorized materials or resources; you can't do things to try to
 gain unfair advantages over your classmates; and you can't work with
 other people unless I say you can. To see Northeastern's full Academic
 Honesty and Integrity Policy, go to
-[[https://osccr.sites.northeastern.edu/academic-integrity-policy/]{.underline}](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
+[[https://osccr.sites.northeastern.edu/academic-integrity-policy/]](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
 
 ## Grading
 There will be four programming assignments and a final project. You will complete the assignments individually, and the project in a group of 3-4. The overall grading breakdown is:
