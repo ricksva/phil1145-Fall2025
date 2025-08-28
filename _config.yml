@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS4530/5500, Spring 2021
+title: Philosophy 1145-38, Fall 2025
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Northeastern University CS 4530 "Fundamentals of Software Engineering" and CS 5500 "Foundations of Software Engineering,"
-  Spring 2021. Professors Jonathan Bell, John Boyland and Mitch Wand.
-tagline: Fundamentals/Foundations of Software Engineering
-baseurl: '/CS4530-CS5500-Spring-2021' # the subpath of your site, e.g. /blog
+  Northeastern University PHIL 1145-38 "Technology and Human Values"
+  Fall 2025. Professor Vance Ricks
+tagline: Technology and Human Values
+baseurl: '/phil1145-Fall2025' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "disabled"]
 
@@ -34,7 +34,7 @@ permalink: pretty
 #    - 'https://kevinl.info'
 #  Just the Class on GitHub:
 #    - 'https://github.com/kevinlin1/just-the-class'
-footer_content: "&copy; 2021 Jonathan Bell, John Boyland and Mitch Wand. Released under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA</a> license"
+footer_content: "&copy; 2025 Vance Ricks. Released under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA</a> license"
 
 
 # Collections for website data
