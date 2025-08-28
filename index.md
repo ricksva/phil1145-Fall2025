@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CS4530/5500, Spring 2021
+title: PHIL 1145, Fall 2025
 nav_exclude: true
 seo:
   type: Course
-  name: CS4530 + CS5500, Fundamentals/Foundations of Software Engineering
+  name: PHIL 1145-38, Technology and Human Values
 ---
 
 # {{ site.title }}: {{ site.tagline }}
@@ -16,75 +16,100 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Overview
-Building, delivering and maintaining successful software products requires more than being good at programming. Software engineering encompasses the tools and processes that we use to design, construct and maintain programs over time. Software engineering has been said to consider the "multi person development of multi version programs." Development processes that work well for a single developer do not scale to large or even medium-sized teams. Similarly, development processes that work well for quickly delivering a one-off program to a client cause chaos when applied to a codebase that needs to be maintained and updated over months and years. This class will begin to explore these tradeoffs throughout the entire software development lifecycle, with a particular focus on how these decisions affect the quality of the resulting software. 
+## What's this course about?
 
-This class will serve as an introduction to the field of software engineering, covering key topics such as:
+This course treats technological systems (such as social media tools,
+"surveillance tech", and artificial intelligence systems) as **tools for
+exploring questions in ethics and in philosophy more broadly**. Our
+answers to those questions have implications for whether and how we
+should design, make, use, understand, and respond to technologies and
+technological systems. The course uses various philosophical concepts
+and tools, developed within a variety of intellectual and cultural
+traditions.
 
--   **Requirements gathering and specification** <br />How to make sure that you build the product that your customer really wants
--   **Designing code for reuse, for readability, and for scale** <br />How to avoid reinventing the wheel? What makes code readable? Where does performance fit into designs? When do we decide when to revisit old design decisions, and how do we replace them? Can we avoid the mistakes that past developers have made?
--   **How to organize your development process to collaborate effectively** <br />How do we communicate our designs with others? How do we structure and coordinate development activities? How do we measure the performance of these processes, and tweak them over time?
--   **How to ensure that your code works, is secure, and broadly speaking, "does the right thing"** <br />How do we measure different quality attributes like usability, scalability and performance? How do we minimize the cost of defects? How do we automatically test complex systems? Can we automatically prove the absence of some kinds of defects?
+This course asks: How *should* our moral and political values shape --
+and be shaped by -- our technologies? How can we best achieve
+technologies' promises, while preventing, minimizing, or more fairly
+distributing their harms? We can't answer those questions without
+noticing that our technologies embody various philosophical and
+sociopolitical choices about things like *well-being*, *autonomy*,
+*health*, and *meaning*. This course is, fundamentally, about those
+things.
 
-## Course Outcomes
+## What will I get from this course?
 
-- Students will be able to define and describe the phases of the software engineering lifecycle (requirements, design, implementation, testing, deployment, maintenance)
-- Students will be able to explain the role of key processes and technologies in modern software development.
-- Students will be able to productively apply instances of major tools used in elementary SE tasks.
-- Students will design and implement a portfolio-worthy software engineering project in a small team environment that can be publicly showcased to recruiters.
+Like most philosophy courses, this one involves "thinking in slow
+motion": taking everyday and often-unquestioned ideas, practices, and
+values, and examining them creatively, carefully, and thoughtfully.
+That's sometimes called "critical thinking", but *every* academic
+discipline can teach you critical thinking! Philosophy is critical
+thinking freed of several of the boundaries that define other
+disciplines. You'll get better at that.]{.mark}
 
-## Course Delivery
-The course will be delivered in a hybrid style.
-This means that there will be a combination of asynchronous (online) materials that you will be expected to study on your own,
-and synchronous (in-class) activities, in which students are expected to participate at scheduled times.
-The asynchronous component will be the primary means by which the course materials are delivered, and the synchronous activities
-will be used for holding discussions, answering questions, and providing hands-on enrichment materials.
+**The course's *general* goals are (a) to introduce you to ethical and
+sociopolitical implications of some technologies and (b) to show you how
+to apply philosophical thinking to your (and others') responses to those
+implications.** You should be able to:{.mark}
 
-Profs Bell and Boyland will deliver their synchronous sections in person, using the [Hybrid NUFlex system](https://news.northeastern.edu/coronavirus/reopening/what-is-nuflex/),
-which allows you to choose to attend in person, or join remotely via Zoom. Prof Wand will deliver his synchronous section remotely using Zoom. 
+- **Demonstrate** orally and in writing your understanding of
+  philosophical questions raised by and related to topics such as
+  privacy, attention, and artificial intelligence{.mark}
 
-### Your Responsibilities
-Each week, you will be expected to:
+- Clearly and accurately **explain** important philosophical and
+  ethical concepts, such as normativity, well-being, autonomy, and moral
+  virtues{.mark}
 
-* Review the week's learning objectives.
-* Complete all assigned readings and asynchronous materials
-* Attend the synchronous sessions and participate in discussions. You may be asked to conduct reviews of other students' designs, documents, or code. Your participation and contributions are important.
-* Complete and submit all assignments by the due dates. There will be a combination of individual assignments and assignments given to teams.
+- Accurately and charitably **summarize and analyze** others' arguments
+  for their presuppositions, strength, consistency, and
+  implications{.mark}
 
-It is also your responsibility to be familiar with our [academic integrity and other course policies]({{ site.baseurl}}{% link policies.md %}).
+- **Make** **and** **improve** your own thoughtful, well-supported, and
+  clearly expressed perspectives on the ethical and sociopolitical
+  dimensions of technologies{.mark}
 
-PLEASE DO NOT COME TO CLASS IF YOU ARE ILL. While we want you to share your knowledge and experiences, there are some things you shouldn't share.
+- **Engage** your classmates, instructor, and others in thoughtful and
+  constructive discussions about the philosophy of technology{.mark}
+
+- **Apply** what you have learned in this course to your life as a
+  member of a society that designs, uses, and is affected by all kinds
+  of technologies.{.mark}
 
 
+## What should I do BEFORE our class meetings? 
 
-## Course Project
-The assignments and project for this class are designed to mirror the experiences of a software engineer joining a new development team:
-you will be "onboarded" to our codebase, make several individual contributions, and then form a team to propose, develop and implement a new feature.
-The codebase that we'll be developing on is a remote collaboration tool called [Covey.Town](https://www.covey.town).
-Covey.Town provides a virtual meeting space where different groups of people can have simultaneous video calls, allowing participants to drift between different conversations, just like in real life.
-Covey.Town is inspired by existing products like [Gather.Town](https://gather.town), [Sococo](https://www.sococo.com), and [Gatherly.IO](https://www.gatherly.io) --- but it is an open source effort, and the features will be proposed and implemented by you!
-All implementation will take place in the TypeScript programming language, using React for the user interface.
+- Make time to read the assigned materials and then read them. Try your
+  best to find time when you're awake, alert, and won't be interrupted.
+  Don't speed read; go slowly (unless I've specifically suggested that
+  you skim). Ty to identify the author's main claims and the reasons and
+  examples given to support those claims. Look up unfamiliar words or
+  phrases and write their definitions in your notes. If you find that
+  your eyes are just passing over the words, then stop and come back
+  later.{.mark}
 
-At the end of the semester, the instructors and TAs will evaluate all of the student projects, and select the best (in terms of usability, code quality, test suite quality, and overall design) to merge into 
-the [open source Covey.Town codebase on GitHub](https://github.com/neu-se/covey.town) repository.
-No additional course credit will be awarded to these teams, but these students will have the opportunity to receive public recognition for their project (in the form of a pull request merged into our repository and acknowledgements in the project's contributors list).
+- Be prepared to read the assigned materials more than once. Philosophy
+  can be hard to read, so you should expect to be confused about some or
+  much of that reading! But don't fall back on, "I have no idea what
+  they're saying". Instead, try to figure out why you're confused. Write
+  down your questions in your notebook, so that you can come to class
+  prepared to discuss them.{.mark}
 
-The project will provide hands-on experience to complement the skills taught in this class, requiring students to be able to:
- - Work effectively in a small team 
- - Enumerate and prioritize development tasks
- - Propose, design, implement and test a new feature in an existing non-toy software application
- - Write code that their team members can read and review
- - Review teammates' code
- - Analyze a proposed software architecture
- - Use relevant software tools, such as:
-     - TypeScript
-     - Visual Studio Code (or similar IDE)
-     - Git
-     - Mocha and Jest
-     - Twilio's Programmable Video API
-     - Postman
+- Next, **read the google doc Prep document for that day's class, and
+  annotate it where you see fit**. The Prep document is meant to clarify
+  the reading and prepare us for a good class meeting. See below for
+  more details.{.mark}
 
-Select projects from Spring 2021 are hosted [in our project showcase]({{ site.baseurl}}{% link assignments/project-showcase.md %}).
+- Next, bring the assigned materials with you to class. Be ready to
+  talk together and think together. Before you get to class, do
+  something that helps you focus (some light calisthenics, or some
+  meditation, or a snack), if at all possible.{.mark}
+
+- Note: **Don't come to class if you don't feel well or have recently
+  tested positive for covid-19**, and please wear a mask to class during
+  the first week of the semester. (The university forbids faculty from
+  *requiring* masks, but I'm *asking* that you wear one during that time
+  and whenever else you want to. Airborne viruses, unfortunately, aren't
+  "over".){.mark}
+
 
 ### Acknowledgements
 This class and its contents were inspired by Software Engineering courses at various institutions, including:
