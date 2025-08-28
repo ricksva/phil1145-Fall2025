@@ -1,28 +1,193 @@
 ---
 layout: page
-title: Policies
+title: Norms and Policies
 permalink: /policies/
 nav_order: 7
 has_children: true
 ---
 
-## Homework policy 
+## What if we read or discuss uncomfortable topics?
 
-Students must work individually on all homework assignments. We encourage you to have high-level discussions with other students in the class about the assignments, however, we require that when you turn in an assignment, it is only your work. That is, copying any part of another student's assignment is strictly prohibited. You are free to reuse small snippets of example code found on the Internet (e.g. via StackOverflow) provided that it is attributed. If you are concerned that by reusing and attributing that copied code it may appear that you didn't complete the assignment yourself, then please raise a discussion with the instructor.
+This course addresses emotionally and socially charged topics: our
+design and uses of technologies! Reading about or discussing those
+topics might present ideas or situations that you find distressing --
+such as suffering, manipulation, and forms of bigotry or oppression. So
+you might find some readings, images, and language discomfiting. ut
+sometimes we can best understand an issue, and each other's views, only
+by being willing to face and understand distressing things. Seeing such
+challenges as chances for growth can be one way to help yourself face
+whatever discomfort you feel during the course. I also encourage you to
+talk with me and/or the TA about your experiences in the course.
 
-Your work is late if it is not turned in by the deadline.
-* 10% will be deducted for late assignments turned in within 24 hours after the due date.
-* Assignments submitted more than 24 hours late will receive a zero.
+## How much time will I need to devote to this course?
 
-If you're worried about being busy around the time of a HW submission, please plan ahead and get started early. **Homework that does not compile or run will receive at most 50% credit**.  
+There is tension between some people's expectations that an intro-level
+course should be "easier" and the reality that it's still a
+4-credit-hour course. This course meets for a bit more than 3
+instructional hours per week for 13 weeks. **The university's general
+guideline for such a course, regardless of the level, is that you spend
+2 hours on course-related work (including reading) outside of class for
+every 1 hour you spend in class.** That's what's typical, not a
+requirement. However, the course readings and assignments might require
+more time than you expect, so your results might vary.
 
-**For fairness to all, there are no exceptions to the above rules.**
+## What kinds of support are available to help me succeed?
 
-## In Class Activities:
+First, **remember that Northeastern wouldn't have admitted you if they
+didn't think that you could succeed here**. In addition to me, there are
+people and resources to help any Northeastern student who could benefit
+from them. For example:
 
-Most lectures will feature interactive activities and/or polls that support the material being presented. These polls and activities are meant primarily to help us understand how well you (and the class as a whole) are understanding the material that day. These polls will be graded on a "did it" or "didn't" basis: you either take the polls, and you get the marks, or you did not take the polls, and do not get the marks (that is, as long as you answer the questions, you get full credit, regardless of what the answers are). You must be present in class to take the poll (participating in an online quiz while not attending the synchronous session will be considered academic dishonesty and will be treated harshly). You can miss up to three activities/polls with no penalty.
+***You have a disability or other source of need***: For people who
+qualify under the Americans with Disabilities Act (ADA), Northeastern
+facilitates and supports the implementation of reasonable
+accommodations, including resources and services for students with
+documented disabilities, chronic medical conditions, temporary
+disabilities, or pregnancy complications resulting in difficulties with
+accessing learning opportunities. **You don't have to disclose any
+disabilities or impairments to me unless you wish to receive
+accommodations for them**. See the Disability Access Service's website
+for information about requests for academic accommodations:
+[[https://disabilityaccessservices.sites.northeastern.edu]{.underline}](https://disabilityaccessservices.sites.northeastern.edu)
 
-If you join class in person, you are strongly encouraged to bring your laptop or phone to class so that you can participate in the activities.
+***You'd like to confidentially discuss your health (including mental
+health)***: If you or someone you know would like to discuss
+confidential information about health (including mental health), contact
+Northeastern's Health and Counseling Services at
+([[http://www.northeastern.edu/uhcs/counseling-services/]{.underline}](http://www.northeastern.edu/uhcs/counseling-services/))
+or We Care
+([[http://www.northeastern.edu/wecare/]{.underline}](http://www.northeastern.edu/wecare/)).
+
+***You or someone you know has been harassed or assaulted***:
+Northeastern's Title IX Policy prohibits Prohibited Offenses, which are
+defined as sexual harassment, sexual assault, relationship or domestic
+violence, and stalking. The policy applies to all students, faculty, and
+staff. If you or someone you know has been harassed or assaulted, you
+can always get *confidential* support and guidance from University
+Health and Counseling Services staff
+([[http://www.northeastern.edu/uhcs/]{.underline}](http://www.northeastern.edu/uhcs/))
+and the Center for Spiritual Dialogue and Service clergy members
+([[http://www.northeastern.edu/spirituallife/]{.underline}](http://www.northeastern.edu/spirituallife/)).
+You can report alleged violations *non-confidentially* to the Title IX
+Coordinator within The Office for Gender Equity and Compliance
+([[titleix@northeastern.edu]{.underline}](mailto:titleix@northeastern.edu))
+and/or through NUPD (Emergency 617.373.3333; Non-Emergency
+617.373.2121). Reporting Prohibited Offenses to NUPD does *not* commit
+the victim/affected party to future legal action.
+
+> **Note**: As a faculty member, I am considered a "responsible
+> employee" at Northeastern University. **That means that I'm legally
+> required to report all allegations of race-, sex-, or gender-based
+> discrimination to the university's Title IX Coordinator**.
+
+You can find a complete list of reporting options and resources, both
+on- and off-campus, at
+[[www.northeastern.edu/titleix]{.underline}](http://www.northeastern.edu/titleix).
+
+***You or someone you know has been unfairly discriminated against***:
+The Office for University Equity and Compliance is responsible
+for investigating complaints of discrimination. Any member of the
+Northeastern community who believes that they have been discriminated
+against should report the incident promptly through the [[On-Line
+Discrimination Complaint
+Form]{.underline}](https://cm.maxient.com/reportingform.php?NortheasternUniv&layout_id=7) ([[https://www.northeastern.edu/ouec/reporting-options/discrimination/]{.underline}](https://www.northeastern.edu/ouec/reporting-options/discrimination/))
+which exists to assist the complainant in formulating a concise
+statement of their allegations and goes directly to the Office for
+University Equity and Compliance.
+
+***You need an accommodation because of religious observances***: If you
+cannot attend class, participate in required course activities, or take
+a scheduled exam because of religious observances, then I will give you
+a reasonable opportunity to make up the course work without penalty. You
+can find the university policy on religious observance at
+[[http://www.northeastern.edu/policies/pdfs/Policy_on_Instructional_Accommodations_for_Student_Religious_Observance_rsa1.pdf]{.underline}](http://www.northeastern.edu/policies/pdfs/Policy_on_Instructional_Accommodations_for_Student_Religious_Observance_rsa1.pdf).
+
+***You'd like tutoring services***: Northeastern's peer tutoring program
+([[https://undergraduate.northeastern.edu/peer-tutoring/]{.underline}](https://undergraduate.northeastern.edu/peer-tutoring/))
+is free and open to all NU undergraduate students.
+
+***You're an international student and would like tutoring or other
+support***: Northeastern's International Tutoring Center (ITC) -
+[[https://international.northeastern.edu/gss/]{.underline}](https://international.northeastern.edu/gss/) -
+gives Northeastern's international students free, comprehensive English
+language and academic support. The ITC includes English as a Second
+Language Tutoring (ESL), Language and Culture Workshops, and Reading
+Workshops.
+
+***You'd like to get general help with research materials***: [[Snell
+Library]{.underline}](https://library.northeastern.edu/) offers a
+variety of resources for undergraduate research, including
+subject-specific [[Research
+Guides]{.underline}](https://subjectguides.lib.neu.edu/?b=g&d=a), help
+with citation and bibliography, and round-the-clock chat support.
+
+***You'd like to get general help strengthening your writing***: Visit
+the NU Writing Center:
+[[http://www.northeastern.edu/writingcenter/]{.underline}](http://www.northeastern.edu/writingcenter/).
+
+***You have a concern about this course***: Please first start by
+talking with me! Although it might feel uncomfortable or even scary to
+do that, I'd like the chance to hear and address your concerns. If that
+doesn't help, then you can contact the chairperson of the
+Philosophy/Religion department, Prof. Rory Smead. For information about
+formal academic appeals policies and procedures, see the 2024-25
+Undergraduate Student Handbook at
+[[https://admissions.northeastern.edu/undergraduate-student-handbook/]{.underline}](https://admissions.northeastern.edu/undergraduate-student-handbook/).
+
+## What if I miss class?
+
+I expect you to attend as many class meetings as possible. However, you
+might sometimes have to be absent, for any number of reasons. If you
+need to miss class:
+
+- You **do not** need to contact me in advance!
+
+- **NEVER** ask me any version of, "Did I miss anything important?", since
+  of course you did.
+
+- Make time to discuss that day's materials with me. I don't record the
+  class meetings, but I'm happy to answer your questions, and you can
+  also annotate that day's Prep document or ask to see your classmates'
+  notes.
+
+- **You won't be able to make up any In-Class Activity assignment from
+  that day's class**, but you are still responsible for making
+  arrangements to submit any *other* assignments that were due that
+  day.
+
+**If I need to miss class**: I will do my best to hold class over Zoom,
+rather than canceling class. I'll email you as soon as possible to let
+you know about the switch and will send the link so that we can still
+hold class that way. If that's unfeasible, then I'll notify the class as
+soon as possible and will plan an alternative activity for you.
+
+## Can I cheat in this class?
+
+In the sense of "can" that refers to what's metaphysically possible,
+sure. But you already know that cheating is unethical and that it
+undermines the foundations of your education. To foster individual and
+communal academic integrity, Northeastern subscribes to the principles
+of an academic integrity policy. I presume that any work that you hand
+in under your own name -- even if it's a draft -- has followed that
+policy. *If you find that you can't say that about something that you
+have submitted, let me know immediately*.
+
+Also, **why** do you want to cheat? If it's because you're feeling
+deadling pressure, then cheating is a *really bad* way to address that
+fear! Instead, check the late work policy for this course, below. If you
+still decide that you need to cheat on something, then I'll treat that
+work as if you hadn't submitted it at all. That means you get no credit
+for having done the assignment, and I notify the Office of Student
+Conduct and Conflict Resolution about the violation. If that happens
+more than once, then you'll fail the course.
+
+**Your Responsibility to the Academic Integrity Policy** -- In short:
+you can't claim that someone else's words or ideas are yours; you can't
+use unauthorized materials or resources; you can't do things to try to
+gain unfair advantages over your classmates; and you can't work with
+other people unless I say you can. To see Northeastern's full Academic
+Honesty and Integrity Policy, go to
+[[https://osccr.sites.northeastern.edu/academic-integrity-policy/]{.underline}](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
 
 ## Grading
 There will be four programming assignments and a final project. You will complete the assignments individually, and the project in a group of 3-4. The overall grading breakdown is:
