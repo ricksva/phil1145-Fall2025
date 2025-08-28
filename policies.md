@@ -6,6 +6,18 @@ nav_order: 7
 has_children: true
 ---
 
+## How much time will I need to devote to this course?
+
+There is tension between some people's expectations that an intro-level
+course should be "easier" and the reality that it's still a
+4-credit-hour course. This course meets for a bit more than 3
+instructional hours per week for 13 weeks. **The university's general
+guideline for such a course, regardless of the level, is that you spend
+2 hours on course-related work (including reading) outside of class for
+every 1 hour you spend in class.** That's what's typical, not a
+requirement. However, the course readings and assignments might require
+more time than you expect, so your results might vary.
+
 ## What if we read or discuss uncomfortable topics?
 
 This course addresses emotionally and socially charged topics: our
@@ -19,17 +31,60 @@ challenges as chances for growth can be one way to help yourself face
 whatever discomfort you feel during the course. I also encourage you to
 talk with me and/or the TA about your experiences in the course.
 
-## How much time will I need to devote to this course?
+## What if I miss class?
 
-There is tension between some people's expectations that an intro-level
-course should be "easier" and the reality that it's still a
-4-credit-hour course. This course meets for a bit more than 3
-instructional hours per week for 13 weeks. **The university's general
-guideline for such a course, regardless of the level, is that you spend
-2 hours on course-related work (including reading) outside of class for
-every 1 hour you spend in class.** That's what's typical, not a
-requirement. However, the course readings and assignments might require
-more time than you expect, so your results might vary.
+I expect you to attend as many class meetings as possible. However, you
+might sometimes have to be absent, for any number of reasons. If you
+need to miss class:
+
+- You **do not** need to contact me in advance!
+
+- **NEVER** ask me any version of, "Did I miss anything important?", since
+  of course you did...
+
+- Make time to discuss that day's materials with me. I don't record the
+  class meetings, but I'm happy to answer your questions, and you can
+  also annotate that day's Prep document or ask to see your classmates'
+  notes.
+
+- **You won't be able to make up any In-Class Activity assignment from
+  that day's class**, but you are still responsible for making
+  arrangements to submit any *other* assignments that were due that
+  day.
+
+**If I need to miss class**: I will do my best to hold class over Zoom,
+rather than canceling class. I'll email you as soon as possible to let
+you know about the switch and will send the link so that we can still
+hold class that way. If that's unfeasible, then I'll notify the class as
+soon as possible and will plan an alternative activity for you.
+
+## Can I cheat in this class?
+
+In the sense of "can" that refers to what's metaphysically possible,
+sure. But you already know that cheating is unethical and that it
+undermines the foundations of your education. To foster individual and
+communal academic integrity, Northeastern subscribes to the principles
+of an academic integrity policy. I presume that any work that you hand
+in under your own name -- even if it's a draft -- has followed that
+policy. *If you find that you can't say that about something that you
+have submitted, let me know immediately*.
+
+Also, **why** do you want to cheat? If it's because you're feeling
+deadling pressure, then cheating is a *really bad* way to address that
+fear! Instead, check the late work policy for this course, below. If you
+still decide that you need to cheat on something, then I'll treat that
+work as if you hadn't submitted it at all. That means you get no credit
+for having done the assignment, and I notify the Office of Student
+Conduct and Conflict Resolution about the violation. If that happens
+more than once, then you'll fail the course.
+
+**Your Responsibility to the Academic Integrity Policy** -- In short:
+you can't claim that someone else's words or ideas are yours; you can't
+use unauthorized materials or resources; you can't do things to try to
+gain unfair advantages over your classmates; and you can't work with
+other people unless I say you can. To see Northeastern's full Academic
+Honesty and Integrity Policy, go to
+[[https://osccr.sites.northeastern.edu/academic-integrity-policy/]](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
 
 ## What kinds of support are available to help me succeed?
 
@@ -134,60 +189,6 @@ formal academic appeals policies and procedures, see the 2024-25
 Undergraduate Student Handbook at
 [[https://admissions.northeastern.edu/undergraduate-student-handbook/]](https://admissions.northeastern.edu/undergraduate-student-handbook/).
 
-## What if I miss class?
-
-I expect you to attend as many class meetings as possible. However, you
-might sometimes have to be absent, for any number of reasons. If you
-need to miss class:
-
-- You **do not** need to contact me in advance!
-
-- **NEVER** ask me any version of, "Did I miss anything important?", since
-  of course you did...
-
-- Make time to discuss that day's materials with me. I don't record the
-  class meetings, but I'm happy to answer your questions, and you can
-  also annotate that day's Prep document or ask to see your classmates'
-  notes.
-
-- **You won't be able to make up any In-Class Activity assignment from
-  that day's class**, but you are still responsible for making
-  arrangements to submit any *other* assignments that were due that
-  day.
-
-**If I need to miss class**: I will do my best to hold class over Zoom,
-rather than canceling class. I'll email you as soon as possible to let
-you know about the switch and will send the link so that we can still
-hold class that way. If that's unfeasible, then I'll notify the class as
-soon as possible and will plan an alternative activity for you.
-
-## Can I cheat in this class?
-
-In the sense of "can" that refers to what's metaphysically possible,
-sure. But you already know that cheating is unethical and that it
-undermines the foundations of your education. To foster individual and
-communal academic integrity, Northeastern subscribes to the principles
-of an academic integrity policy. I presume that any work that you hand
-in under your own name -- even if it's a draft -- has followed that
-policy. *If you find that you can't say that about something that you
-have submitted, let me know immediately*.
-
-Also, **why** do you want to cheat? If it's because you're feeling
-deadling pressure, then cheating is a *really bad* way to address that
-fear! Instead, check the late work policy for this course, below. If you
-still decide that you need to cheat on something, then I'll treat that
-work as if you hadn't submitted it at all. That means you get no credit
-for having done the assignment, and I notify the Office of Student
-Conduct and Conflict Resolution about the violation. If that happens
-more than once, then you'll fail the course.
-
-**Your Responsibility to the Academic Integrity Policy** -- In short:
-you can't claim that someone else's words or ideas are yours; you can't
-use unauthorized materials or resources; you can't do things to try to
-gain unfair advantages over your classmates; and you can't work with
-other people unless I say you can. To see Northeastern's full Academic
-Honesty and Integrity Policy, go to
-[[https://osccr.sites.northeastern.edu/academic-integrity-policy/]](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
 
 ## Grading
 There will be four programming assignments and a final project. You will complete the assignments individually, and the project in a group of 3-4. The overall grading breakdown is:
