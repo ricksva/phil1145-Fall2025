@@ -71,6 +71,7 @@ I'm a Teaching Professor of Philosophy (in CSSH) and Computer Science
 of preference. I teach philosophy courses and I work with other Khoury
 faculty to incorporate the teaching of ethical concepts into the
 Computer Science curriculum.
+
 This is the start of my 5th year at
 Northeastern. My undergraduate and doctoral degrees are in Philosophy,
 and my focus in graduate school was on friendship and theory of action
@@ -78,7 +79,7 @@ and my focus in graduate school was on friendship and theory of action
 graduate school, I was a technical writer and computer programmer at
 IBM. I think and write about the ethical implications of digital
 technologies, among other topics. I also have a variety of tremendously
-fascinating pastimes and interests.]{.mark}
+fascinating pastimes and interests.
 
 ## I need to talk with you. How do I reach you?
 
@@ -93,12 +94,16 @@ conversation!
 I have appointment hours \[**Mon/Tue/Fri 12:00p - 1p; otherwise by
 appointment\] in Renaissance Park room 432 -- NOT the parking garage,
 but the multistory building next to the Ruggles T stop and near
-International Village**. Appointment hours are for you to talk with me
+International Village**.
+
+Appointment hours are for you to talk with me
 about our course or about anything else on your mind. You can sign up to
 reserve a time through Calendly
 (<https://calendly.com/v-ricks/ricks-fall-2025-student-appointment-hours>).
 **When you sign up, indicate whether you'd rather meet in person, on
-Teams, or on zoom.** If my hours conflict with your schedule, then
+Teams, or on zoom.**
+
+If my hours conflict with your schedule, then
 please talk with me to find an alternative time!
 
 ## What if we read or discuss uncomfortable topics?
@@ -155,13 +160,22 @@ course should be "easier" and the reality that it's still a
 instructional hours per week for 13 weeks. **The university's general
 guideline for such a course, regardless of the level, is that you spend
 2 hours on course-related work (including reading) outside of class for
-every 1 hour you spend in class.** That's what's typical, not a
+every 1 hour you spend in class.**
+
+That's what's typical, not a
 requirement. However, the course readings and assignments might require
 more time than you expect, so your results might vary.
 
 ## What should I do BEFORE our class meetings? 
 
-- Make time to read the assigned materials and then read them. Try your
+- **Don't come to class if you don't feel well or have recently
+  tested positive for covid-19**, and please wear a mask to class during
+  the first week of the semester. (The university forbids faculty from
+  *requiring* masks, but I'm *asking* that you wear one during that time
+  and whenever else you want to. Airborne viruses, unfortunately, aren't
+  "over".)
+
+  - Make time to read the assigned materials and then read them. Try your
   best to find time when you're awake, alert, and won't be interrupted.
   Don't speed read; go slowly (unless I've specifically suggested that
   you skim). Ty to identify the author's main claims and the reasons and
@@ -187,12 +201,6 @@ more time than you expect, so your results might vary.
   something that helps you focus (some light calisthenics, or some
   meditation, or a snack), if at all possible.
 
-- Note: **Don't come to class if you don't feel well or have recently
-  tested positive for covid-19**, and please wear a mask to class during
-  the first week of the semester. (The university forbids faculty from
-  *requiring* masks, but I'm *asking* that you wear one during that time
-  and whenever else you want to. Airborne viruses, unfortunately, aren't
-  "over".)
 
 ## What should I do DURING our class meetings? 
 
@@ -218,9 +226,8 @@ more time than you expect, so your results might vary.
   Socratic Circle meetings.
 
 - Avoid doing or interacting with things that will distract you or your
-  classmates. Keep your phones in your pocket, bag, or otherwise out of
-  sight during class time. I strongly prefer that you also keep your
-  laptop/tablet in your bag during class. If you bring it to class, then
+  classmates. Keep your phones, tablets, and laptops in your pocket, bag, or otherwise out of
+  sight during class time. If you bring it to class, then
   you must use it as sparingly as possible. For example: unlock your
   laptop/tablet long enough to quickly jot down a point that came up in
   class, then close it. **If any of your digital devices plays a tune or
@@ -270,7 +277,7 @@ for information about requests for academic accommodations:
 health)***: If you or someone you know would like to discuss
 confidential information about health (including mental health), contact
 Northeastern's Health and Counseling Services at
-([[http://www.northeastern.edu/uhcs/counseling-services/]{.underline}](http://www.northeastern.edu/uhcs/counseling-services/))
+([http://www.northeastern.edu/uhcs/counseling-services/](http://www.northeastern.edu/uhcs/counseling-services/))
 or We Care
 ([http://www.northeastern.edu/wecare/](http://www.northeastern.edu/wecare/)).
 
@@ -283,7 +290,7 @@ can always get *confidential* support and guidance from University
 Health and Counseling Services staff
 ([http://www.northeastern.edu/uhcs/](http://www.northeastern.edu/uhcs/))
 and the Center for Spiritual Dialogue and Service clergy members
-([[http://www.northeastern.edu/spirituallife/]{.underline}](http://www.northeastern.edu/spirituallife/)).
+([http://www.northeastern.edu/spirituallife/](http://www.northeastern.edu/spirituallife/)).
 You can report alleged violations *non-confidentially* to the Title IX
 Coordinator within The Office for Gender Equity and Compliance
 ([titleix@northeastern.edu](mailto:titleix@northeastern.edu))
