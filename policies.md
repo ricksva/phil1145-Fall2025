@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policies
-permalink: /policies/
+permalink: /policies
 nav_order: 7
 has_children: true
 ---
