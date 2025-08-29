@@ -3,6 +3,7 @@ layout: page
 title: Course Syllabus
 permalink: /syllabus/
 nav_order: 1
+
 ---
 # Course Syllabus
 {: .no_toc }
