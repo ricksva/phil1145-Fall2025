@@ -3,7 +3,7 @@ layout: page
 title: Course Syllabus
 permalink: /syllabus/
 nav_order: 1
-
+has_children: true
 ---
 # Course Syllabus
 {: .no_toc }
