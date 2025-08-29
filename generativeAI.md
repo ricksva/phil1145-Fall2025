@@ -3,7 +3,7 @@ layout: page
 title: Instructor and Student Uses of Generative AI
 permalink: /policies/generativeAI/
 parent: Policies
-nav_order: 3
+nav_order: 2
 ---
 
 ## (How) can you and I use generative "AI" in this class?
