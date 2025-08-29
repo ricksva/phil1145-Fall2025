@@ -17,14 +17,14 @@ important factor in learning is doing the work of practicing, recalling,
 synthesizing, and analyzing. The assignments are designed to help with
 that.
 
-> 1\. First week reflection
->
-> 2\. Writing Assignments: TwReading Responses (2), Podcast Analysis (1)
->
-> 4\. Socratic Circle memos (10)
->
-> 5\. Prep document annotations (20)
->
-> 6\. In-Class activities (ICAs) (20)
->
-> 7\. Concluding Assignment (Project Paper or Viva)
+1. First week reflection
+
+1. Writing Assignments: TwReading Responses (2), Podcast Analysis (1)
+
+1. Socratic Circle memos (10)
+
+1. Prep document annotations (20)
+
+1. In-Class activities (ICAs) (20)
+
+1. Concluding Assignment (Project Paper or Viva)
