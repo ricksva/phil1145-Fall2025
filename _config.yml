@@ -34,6 +34,9 @@ search_enabled: true
 # Default: 10
 # search.preview_words_after: 5
 
+# Open external links in a new tab
+nav_external_links_new_tab: true
+
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: neu
