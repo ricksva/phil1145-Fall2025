@@ -13,11 +13,15 @@ nav_order: 6
 {{ staffer }}
 {% endfor %}
 
-## Office Location
-Renaissance Park office building, room 432
-Renaissance Park office building is NOT Renaissance Park garage!
+## Click to [make an appointment!](https://calendly.com/v-ricks/ricks-fall-2025-student-appointment-hours)
+
+## Office Location - Renaissance Park office building, room 432
+![Renaissance Park office building](/assets/images/RPbldg.jpg)
+"This is the office building"
+#
+![Renaissance Park office building](/assets/images/RPgarage.jpg)
+"This is NOT the office building"
 
 
-## [Make an appointment!](https://calendly.com/v-ricks/ricks-fall-2025-student-appointment-hours)
 
 
