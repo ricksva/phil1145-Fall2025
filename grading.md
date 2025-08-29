@@ -79,16 +79,16 @@ at best, because that's the highest row that your assignments satisfy
 *all* the columns of.
 
 
-|Course Grade|Reflection|Responses/Podcast Analysis|Socratic memos|Prep doc annotations|ICAs|Concluding Assignment|
+|Course Grade|Reflection|Responses and Analysis|Socratic memos|Prep doc annotations|ICAs|Concluding Assignment|
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "A"       | Pass this    | Pass all 3   | Pass all 10  | Pass all 20  | Pass at      | Pass          |
-|           |              |              |              |              | least 15     |               |
+| "A"       | Pass this    | Pass all 3   | Pass all 10  | Pass all 20  | Pass at least 15     | Pass          |
+|           |              |              |              |              |  |               |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "A-"      | Pass this    | Pass all 3   | Pass 9       | Pass 19      | Pass at      | Pass          |
-|           |              |              |              |              | least 15     |               |
+| "A-"      | Pass this    | Pass all 3   | Pass 9       | Pass 19      | Pass at least 15    | Pass          |
+|           |              |              |              |              |     |               |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "B+"      | Pass this    | Pass 2 of 3  | Pass at      | Pass at      | Pass at most | Pass          |
-|           |              |              | least 8      | least 18     | 14           |               |
+| "B+"      | Pass this    | Pass 2 of 3  | Pass at least 8    | Pass at least 18      | Pass at most 14 | Pass          |
+|           |              |              |    |   |            |               |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
 | "B"       | Pass all     | Pass 2 of 3  | Pass at      | Pass at      | Pass at most | Pass          |
 |           | three of     |              | least 8      | least 17     | 14           |               |
