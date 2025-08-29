@@ -7,7 +7,7 @@ these materials in your class.
 
 
 ### Local development environment
-This site is built using [Kevin Lin's the Just the Class template](https://kevinl.info/just-the-class/).
+This site is built using [Kevin Lin's the Just the Class template](https://kevinl.info/just-the-class/) and draws heavily from [a Spring 2021 Northeastern course on Fundamentals/Foundations of Software Engineering](https://neu-se.github.io/CS4530-CS5500-Spring-2021/).
 Just the Class is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. 
 
 Windows requires an [additional step](https://jekyllrb.com/docs/installation/windows/#autoregeneration) in the Jekyll install. To do this, say
