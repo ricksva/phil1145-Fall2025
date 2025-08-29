@@ -3,7 +3,6 @@ layout: page
 title: Device Use During Class
 permalink: /policies/deviceuse/
 Parent: Policies
-nav_order: 7
 ---
   
 ## Which electronic devices may I use during class?
