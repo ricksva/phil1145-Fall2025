@@ -11,7 +11,9 @@ I'm a Teaching Professor of Philosophy (in CSSH) and Computer Science
 (in Khoury). You can call me "Vance" or "Professor Ricks", in that order
 of preference. I teach philosophy courses and I work with other Khoury
 faculty to incorporate the teaching of ethical concepts into the
-Computer Science curriculum. This is the start of my 5^th^ year at
+Computer Science curriculum.
+
+This is the start of my 5th year at
 Northeastern. My undergraduate and doctoral degrees are in Philosophy,
 and my focus in graduate school was on friendship and theory of action
 (ask me about it sometime!). During and after college, and before
