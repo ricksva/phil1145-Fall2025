@@ -13,7 +13,7 @@ nav_order: 6
 {{ staffer }}
 {% endfor %}
 
-## Click to [make an appointment!](https://calendly.com/v-ricks/ricks-fall-2025-student-appointment-hours)
+## Click [to make an appointment!](https://calendly.com/v-ricks/ricks-fall-2025-student-appointment-hours)
 
 ## Office Location - Renaissance Park office building, room 432
 ![Renaissance Park office building](/assets/images/RPbldg.jpg)
