@@ -3,7 +3,7 @@ layout: page
 title: Code Style
 permalink: /policies/generativeAI/
 parent: Policies
-nav_order: 1
+nav_order: 2
 ---
 
 ## (How) can you and I use generative "AI" in this class?
