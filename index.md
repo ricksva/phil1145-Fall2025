@@ -7,7 +7,7 @@ nav_exclude: true
 # {{ site.title }}: {{ site.tagline }}
 {: .mb-2 }
 {: .fs-6 .fw-300 }
-
+## This course meets: Tuesday and Friday mornings 8 - 9:40 in Hayden Hall 012
 {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
@@ -19,7 +19,7 @@ nav_exclude: true
 >
 > -Melvin Kranzberg, "Technology and History"
 
-## This course meets: Tuesday and Friday mornings 8 - 9:40 in Hayden Hall 012
+
 
 ## What's this course about?
 
