@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Instructor contact and appointment info
+description: Where and when to find me
 nav_order: 6
 ---
 
