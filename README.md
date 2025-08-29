@@ -1,9 +1,9 @@
-# Northeastern University CS 4530 + CS 5500 Spring 2021 Website Source
-*This is not the website for the class*, but instead is the source code for the website. The website is located at [https://neu-se.github.io/CS4530-CS5500-Spring-2021/](https://neu-se.github.io/CS4530-CS5500-Spring-2021/).
+# Northeastern University PHIL 1145-38 Fall 2025 Website Source
+*This is not the website for the class*, but instead is the source code for the website. The website is located at [https://ricksva.github.io/phil1145-Fall2025/](https://ricksva.github.io/phil1145-Fall2025/).
 
 ### License
 All materials in this repository (the lectures, assignments, and also the site itself) are released under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/). Please feel free to reuse or remix
-these materials in your class (and suggest you peruse the [detailed course outline](https://neu-se.github.io/CS4530-CS5500-Spring-2021/outline) to get a better sense of the topics). If you do, we'd love to hear your thoughts.
+these materials in your class.
 
 
 ### Local development environment
