@@ -5,6 +5,7 @@ nav_exclude: true
 seo:
   type: Course
   name: PHIL 1145-38, Technology and Human Values
+  meetings: Tuesday and Friday mornings 8 - 9:40 in Hayden Hall 012
 ---
 
 # {{ site.title }}: {{ site.tagline }}
