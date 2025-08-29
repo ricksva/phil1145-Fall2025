@@ -13,6 +13,8 @@ nav_exclude: true
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
+![](../../assets/images/Champlain.jpg)
+
 > "Technology is neither good nor bad, nor is it neutral."
 >
 > -Melvin Kranzberg, "Technology and History"
