@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Instructor and Student Uses of Generative AI
-permalink: /policies/generativeAI/
-parent: Policies
+permalink: /syllabus/generativeAI/
+parent: Syllabus
 nav_order: 2
 ---
 
