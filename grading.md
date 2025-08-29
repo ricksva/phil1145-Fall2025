@@ -79,10 +79,7 @@ at best, because that's the highest row that your assignments satisfy
 *all* the columns of.
 
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| **Overall | First-week   | **Reading      | Socratic     | Prep         | In-class     | Concluding    |
-| Course    | Reflection   | Responses    | Circle memos | document     | activities   | assignment    |
-| Grade**   |              | and Podcast  |              | annotations  |              |               |
-|           |              | Analysis**     |              |              |              |               |
+| Overall Course Grade  | First-week Reflection   | Reading Responses and Podcast Analysis      | Socratic Circle memos     | Prep document annotations         | In-class Activities    | Concluding Assignment   |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
 | "A"       | Pass this    | Pass all 3   | Pass all 10  | Pass all 20  | Pass at      | Pass          |
 |           |              |              |              |              | least 15     |               |
