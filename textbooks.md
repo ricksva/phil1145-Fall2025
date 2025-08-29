@@ -6,8 +6,8 @@ nav_order: 3
 
 ## What are the course texts and other materials?
 
-Buy the PRINT editions of these texts (either from the campus bookstore
-in the Curry Student Center, or elsewhere). We'll use the PRINT
+Buy the PRINT editions of these texts (either from [the campus bookstore
+in the Curry Student Center](https://www.bkstr.com/northeasternstore/course-materials-results?shopBy=course&divisionDisplayName=&departmentDisplayName=PHIL&courseDisplayName=1145&sectionDisplayName=14793&programId=5287&termId=100089841), or elsewhere). We'll use the PRINT
 editions, not the ebook editions, of these books. **If buying them will
 be a financial hardship, then please talk to me right away.**
 
