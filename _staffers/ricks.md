@@ -7,8 +7,8 @@ appointment-hours: Mondays, Tuesdays, and Friday afternoons 12 - 1 (and by appoi
 ---
 ## Who are you?
 
-I'm a Teaching Professor of Philosophy (in CSSH) and Computer Science
-(in Khoury). You can call me "Vance" or "Professor Ricks", in that order
+At Northeastern, I'm a Teaching Professor of Philosophy (in the College of Social Sciences and Humanities) and Computer Science
+(in Khoury College of Computing Sciences). You can call me "Vance" or "Professor Ricks", in that order
 of preference. I teach philosophy courses and I work with other Khoury
 faculty to incorporate the teaching of ethical concepts into the
 Computer Science curriculum.
