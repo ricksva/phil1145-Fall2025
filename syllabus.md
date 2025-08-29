@@ -7,8 +7,12 @@ nav_order: 1
 ---
 # Course Syllabus
 {: .no_toc }
-
+<details markdown="block">
+  <summary>
 ## Table of Contents
+  </summary>
+  {: .text-delta }
+
 {: .no_toc .text-delta }
 
 1. TOC
