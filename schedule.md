@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Schedule (subject to change!)
 permalink: /schedule/
 nav_order: 2
 ---
