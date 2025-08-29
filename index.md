@@ -13,7 +13,7 @@ nav_exclude: true
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-![Apple orchard and solar panels](/assets/images/staff/Champlain.jpg)
+![Apple orchard and solar panels](/assets/images/staff/ChamplainNY.jpg)
 
 > "Technology is neither good nor bad, nor is it neutral."
 >
