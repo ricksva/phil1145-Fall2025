@@ -18,7 +18,7 @@ nav_exclude: true
 
 > "Technology is neither good nor bad, nor is it neutral."
 >
-> -Melvin Kranzberg, "Technology and History"
+> -Melvin Kranzberg, "Technology and History" (_Technology and Culture_. 1986. 27 (3): 544–560)
 
 
 ## What's this course about?
