@@ -233,14 +233,9 @@ more time than you expect, so your results might vary.
   Socratic Circle meetings.
 
 - Avoid doing or interacting with things that will distract you or your
-  classmates. Keep your phones, tablets, and laptops in your pocket, bag, or otherwise out of
-  sight during class time. If you bring it to class, then
-  you must use it as sparingly as possible. For example: unlock your
-  laptop/tablet long enough to quickly jot down a point that came up in
-  class, then close it. **If any of your digital devices plays a tune or
-  does anything else audibly or visually distracting during class time,
-  then you have to bring doughnuts to the next class meeting.** (Am I
-  serious about this?)
+  classmates. **If any of your digital devices plays a tune or does anything else
+  audibly or visually distracting during class time, then you have to bring doughnuts
+  to the next class meeting.** (Am I serious about this?)
 
 - DO NOT make any audiovisual recordings of any part of the class
   session unless you and I have specifically discussed doing so as one
@@ -260,6 +255,42 @@ more time than you expect, so your results might vary.
   definitely false. That discernment requires that we all be open to
   revising or even retracting our claims, so that we can arrive at more
   insightful and action-guiding views.
+
+## Which electronic devices may I use during class?
+
+We sometimes use phones, tablets, and laptops in class as part of an activity (such as taking
+**collaborative** notes or looking things up.
+But the default policy is that _those devices need to be silenced and put away during class time_.
+If you want to use a device in class, then email me a device proposal with your intended usage.
+
+### What is a "Device Proposal"?
+
+The following is an actual example from a former student:
+
+"I am reading through the syllabus and would like to ask for your permission to use my laptop
+computer during class, when necessary for note-taking.
+
+The reasons I would prefer to use my device instead of a pen/pencil and paper are listed below:
+
+* I use a really handy notes application on my device.
+* Since I have owned a laptop and used it in most classes, I realized I am more likely to review
+my notes when they are on a screen than on paper.
+* I noticed that when my notes are handwritten, I am more likely to rewrite my notes at home
+out of frustration with its lack of neatness during lectures. (I do not write quickly.)
+* I can easily fix mistakes on my notes and I like to add links from readings or other online assignments.
+* I know many professors worry about how easily some students can get distracted, and I understand,
+but I have kept attention in all my classes and find it very disrespectful to be off-task, thus it
+is very unlikely for me to be off-task.
+* My laptop is very lightweight and much easier for me to bring along on my walks around campus to get to classes.
+
+How I can help others:
+
+- I am always willing to share my notes through email or a shared document with classmates and/or my professors. I date all of my notes and label them based on the topic or chapter of the day so hopefully anyone can understand.
+- I can turn my brightness down to avoid distraction
+- I also turn my laptop on mute to avoid disturbances
+- My laptop (surface pro 4) has a decent camera and with your permission I can take snapshots of
+any other form of presentation and insert the image on the document page in my notes app."
+
 
 ## What kinds of support are available to help me succeed?
 
