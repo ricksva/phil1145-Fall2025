@@ -7,9 +7,9 @@ seo:
   name: PHIL 1145-38, Technology and Human Values
 ---
 
-# {{ site.title }}: {{ site.tagline }}
-{: .mb-2 }
-{: .fs-6 .fw-300 }
+// # {{ site.title }}: {{ site.tagline }}
+// {: .mb-2 }
+// {: .fs-6 .fw-300 }
 
 {% if site.announcements %}
 {{ site.announcements.last }}
