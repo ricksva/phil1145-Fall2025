@@ -13,8 +13,7 @@ nav_exclude: true
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-# PHIL 1145-38, Technology and Human Values
-# This course meets: Tuesday and Friday mornings 8 - 9:40 in Hayden Hall 012
+## This course meets: Tuesday and Friday mornings 8 - 9:40 in Hayden Hall 012
 
 ## What's this course about?
 
