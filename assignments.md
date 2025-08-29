@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignments
+title: Course Assignments
 permalink: /assignments/
 has_children: true
 nav_order: 4
