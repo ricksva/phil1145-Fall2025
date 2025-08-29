@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Device Use During Class
-permalink: /policies/deviceuse/
-Parent: Policies
+permalink: /syllabus/deviceuse/
+Parent: Syllabus
 nav_order: 1
 ---
   
