@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code Style
-permalink: /policies/generativeAI/
+permalink: /policies/generativeAI
 parent: Policies
 nav_order: 1
 ---
