@@ -1,3 +1,6 @@
+---
+title: Course Syllabus
+
 <details open markdown="block">
   <summary>
     Course Syllabus
@@ -7,11 +10,12 @@
 {:toc}
 </details>
 
+
 "Technology is neither good nor bad, nor is it neutral."
 
 -Melvin Kranzberg, "Technology and History"
 
-# What's this course about?
+## What's this course about?
 
 This course treats technological systems (such as social media tools,
 "surveillance tech", and artificial intelligence systems) as **tools for
@@ -31,7 +35,7 @@ sociopolitical choices about things like *well-being*, *autonomy*,
 *health*, and *meaning*. This course is, fundamentally, about those
 things.
 
-# What will I get from this course?
+## What will I get from this course?
 
 Like most philosophy courses, this one involves "thinking in slow
 motion": taking everyday and often-unquestioned ideas, practices, and
@@ -69,7 +73,7 @@ implications.** You should be able to:
   member of a society that designs, uses, and is affected by all kinds
   of technologies.
 
-# Who are you?
+## Who are you?
 
 I'm a Teaching Professor of Philosophy (in CSSH) and Computer Science
 (in Khoury). You can call me "Vance" or "Professor Ricks", in that order
@@ -85,7 +89,7 @@ IBM. I think and write about the ethical implications of digital
 technologies, among other topics. I also have a variety of tremendously
 fascinating pastimes and interests.]{.mark}
 
-# I need to talk with you. How do I reach you?
+## I need to talk with you. How do I reach you?
 
 You can send email to me at
 [v.ricks@northeastern.edu](mailto:v.ricks@northeastern.edu).
@@ -106,7 +110,7 @@ reserve a time through Calendly
 Teams, or on zoom.** If my hours conflict with your schedule, then
 please talk with me to find an alternative time!
 
-# What if we read or discuss uncomfortable topics?
+## What if we read or discuss uncomfortable topics?
 
 This course addresses emotionally and socially charged topics: our
 design and uses of technologies! Reading about or discussing those
@@ -119,7 +123,7 @@ challenges as chances for growth can be one way to help yourself face
 whatever discomfort you feel during the course. I also encourage you to
 talk with me and/or the TA about your experiences in the course.
 
-# What are the course texts and other materials?
+## What are the course texts and other materials?
 
 Buy the PRINT editions of these texts (either from the campus bookstore
 in the Curry Student Center, or elsewhere). We'll use the PRINT
@@ -145,14 +149,14 @@ day's class!
 
 6.  A good, English-language dictionary -- STRONGLY RECOMMENDED
 
-# What other stuff do I need to have for this course?
+## What other stuff do I need to have for this course?
 
 If you have a copy of the required course texts; a reliable and strong
 Internet connection; a tablet/computer for accessing Canvas, email, and
 web sites; and something to write on and write with during class, then
 you have the material stuff that you need!
 
-# How much time will I need to devote to this course?
+## How much time will I need to devote to this course?
 
 There is tension between some people's expectations that an intro-level
 course should be "easier" and the reality that it's still a
@@ -164,7 +168,7 @@ every 1 hour you spend in class.** That's what's typical, not a
 requirement. However, the course readings and assignments might require
 more time than you expect, so your results might vary.
 
-# What should I do BEFORE our class meetings? 
+## What should I do BEFORE our class meetings? 
 
 - Make time to read the assigned materials and then read them. Try your
   best to find time when you're awake, alert, and won't be interrupted.
@@ -199,7 +203,7 @@ more time than you expect, so your results might vary.
   and whenever else you want to. Airborne viruses, unfortunately, aren't
   "over".)
 
-# What should I do DURING our class meetings? 
+## What should I do DURING our class meetings? 
 
 - Arrive on time, stay for the duration, and constructively participate
   in all class activities! Showing up *a few* minutes late sometimes
@@ -252,7 +256,7 @@ more time than you expect, so your results might vary.
   revising or even retracting our claims, so that we can arrive at more
   insightful and action-guiding views.
 
-# What kinds of support are available to help me succeed?
+## What kinds of support are available to help me succeed?
 
 First, **remember that Northeastern wouldn't have admitted you if they
 didn't think that you could succeed here**. In addition to me, there are
@@ -355,7 +359,7 @@ formal academic appeals policies and procedures, see the 2024-25
 Undergraduate Student Handbook at
 [https://admissions.northeastern.edu/undergraduate-student-handbook/](https://admissions.northeastern.edu/undergraduate-student-handbook/).
 
-# What if I miss class?
+## What if I miss a class?
 
 I expect you to attend as many class meetings as possible. However, you
 might sometimes have to be absent, for any number of reasons. If you
@@ -382,7 +386,7 @@ you know about the switch and will send the link so that we can still
 hold class that way. If that's unfeasible, then I'll notify the class as
 soon as possible and will plan an alternative activity for you.
 
-# Can I cheat in this class?
+## Can I cheat in this class?
 
 In the sense of "can" that refers to what's metaphysically possible,
 sure. But you already know that cheating is unethical and that it
@@ -410,7 +414,7 @@ other people unless I say you can. To see Northeastern's full Academic
 Honesty and Integrity Policy, go to
 [https://osccr.sites.northeastern.edu/academic-integrity-policy/](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
 
-# (How) can you and I use generative "AI" in this class?
+## (How) can you and I use generative "AI" in this class?
 
 Different courses call for different approaches to the use of different
 technological systems, both for instructors and for students.
@@ -483,7 +487,7 @@ way to try to stop you, but that doesn't mean I'm indifferent!
 3.  You may use generative models on the concluding assignment, only as
     designated in the instructions for that assignment.
 
-# What kinds of assignments will we have in this course?
+## What kinds of assignments will we have in this course?
 
 The assignments are listed below and described more fully in a separate
 document ("Course Assignments"). That document is also part of the
@@ -504,7 +508,7 @@ that.
 >
 > 7\. Concluding Assignment (Project Paper or Viva)
 
-# How will you evaluate/grade my work?
+## How will you evaluate/grade my work?
 
 Each assignment has its own criteria of adequacy that are included with
 the assignment description. Your work gets a grade of "Complete/Pass"
@@ -530,7 +534,7 @@ intrinsic motivation, and that it perhaps even helps them understand the
 course material more deeply. Please talk with me early on, about any
 questions you have about this form of grading!
 
-# Do I get any chances to redo an assignment?
+## Do I get any chances to redo an assignment?
 
 - You may redo the Reading Responses, Podcast Analysis, and Socratic
   Memos. You cannot redo any of the other course assignments (see "Can I
@@ -559,7 +563,7 @@ questions you have about this form of grading!
 - **Resubmission tokens are just that: resubmission tokens. They can't
   be "spent" as an alternative to actually submitting an assignment.**
 
-# If the assignments don't have percentages, then how will I know what my overall course grade is?
+## If the assignments don't have percentages, then how will I know what my overall course grade is?
 
 The table below shows what combination of *passing grades* on the
 assignments corresponds to which overall course grade range. Your course
@@ -620,7 +624,7 @@ at best, because that's the highest row that your assignments satisfy
 |           |              |              | 2            | 9            | 6            |               |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
 
-# When are assignments due?
+## When are assignments due?
 
 Most, but not all, out-of-class assignments are due **before 9pm
 Eastern Time** (deadlines subject to change):
@@ -643,7 +647,7 @@ Eastern Time** (deadlines subject to change):
 
 - Concluding Assignment option -- due Monday 08--Wednesday 10 December
 
-# Can I turn in my work late?
+## Can I turn in my work late?
 
 **You can't submit the Prep document annotations, In-Class Activities,
 or concluding assignment after their deadlines**. Why not?
@@ -701,10 +705,9 @@ was due earlier.
 extension for an assignment because of a serious illness or some
 similarly serious situation, then please let me know, as early as
 possible.
+ 
 
-# 
-
-# What should I do if I'm struggling to do an assignment?
+## What should I do if I'm struggling to do an assignment?
 
 *The first thing you should do is reread the assignment directions*.
 Make sure you understand what they're asking you to do. If you don't
@@ -713,7 +716,7 @@ understand but are still struggling -- then talk with me in class or
 *during one of my appointment hours*. Those hours are a great time to
 talk about your questions!
 
-# What's the schedule?
+## What's the schedule?
 
 **Check our course Canvas site for the most current schedule**. There,
 the "What to read before class" link shows what you should have read
