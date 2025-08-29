@@ -1,11 +1,9 @@
----
-title: Course Syllabus
-
 <details open markdown="block">
   <summary>
-    Course Syllabus
+# Course Syllabus
   </summary>
-  {: .no_toc .text-delta }
+  {: .no_toc }
+
 1. TOC
 {:toc}
 </details>
