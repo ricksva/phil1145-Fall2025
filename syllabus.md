@@ -1,6 +1,6 @@
 <details open markdown="block">
   <summary>
-# Course Syllabus
+Course Syllabus
   </summary>
   {: .no_toc }
 
