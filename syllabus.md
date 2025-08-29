@@ -5,8 +5,6 @@ permalink: /syllabus/
 nav_order: 2
 has_toc: true
 ---
-1. TOC
-{:toc}
 
 ## What's this course about?
 
