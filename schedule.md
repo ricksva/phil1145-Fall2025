@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar
+title: Schedule
 permalink: /calendar/
 nav_order: 1
 ---
