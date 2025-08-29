@@ -8,6 +8,7 @@ nav_exclude: true
 {: .mb-2 }
 {: .fs-6 .fw-300 }
 ## This course meets: Tuesday and Friday mornings 8 - 9:40 in Hayden Hall 012
+### Course code: 14793
 
 {% if site.announcements %}
 {{ site.announcements.last }}
