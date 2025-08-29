@@ -6,7 +6,7 @@ parent: Syllabus
 nav_order: 1
 ---
 
-## (How) can you and I use generative "AI" in this class?
+# (How) can you and I use generative "AI" in this class?
 
 Different courses call for different approaches to the use of different
 technological systems, both for instructors and for students.
@@ -21,14 +21,18 @@ you submit.
 - I don't use so-called "AI detectors" to check the work that
 you submit.
 
+## My Expectation
+
 Given my goals for *this* course, **you should not use generative
 AI-based software for any assignments, whether graded or ungraded, for
 which you expect to receive credit**.
 
-Here is the rationale for my policies. I welcome your questions. If
-you\'re finding yourself confused about whether you\'re \"allowed\" to
+I welcome your questions about the rationale and about the policies,
+by the way. And if you\'re finding yourself confused about whether you\'re \"allowed\" to
 use certain tools or to use them in certain ways, then please talk with
 me *first* -- during class, appointment hours, or email!
+
+## The rationale for my policies
 
 - *Temporarily* setting aside the extractive mindsets and practices that
 underpin the creation of large-scale AI systems, you have to check and
@@ -62,9 +66,10 @@ they're useless for the kind of writing that I want you to undertake in
 this course, because *that* writing is a result of your thinking hard
 about questions that matter. Take a moment to ask *why it is* that so
 many educational institutions are being encouraged to adopt tools whose
-main use threatens the learning of the foundational skills that they say
+main use threatens the learning of the very skills that they say
 they value!
 
+## The Bottom Line
 **For all the cases below, you need to complete the Generative Model
 Citation Worksheet and include it with your submission**.
 
