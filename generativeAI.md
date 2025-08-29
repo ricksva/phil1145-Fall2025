@@ -45,7 +45,7 @@ that I care about as the course instructor.
 - In a 2024 article, the author Ted Chiang claims that "using
 \[generative AI\] to complete assignments is like bringing a forklift
 into the weight room; you will never improve your...fitness that
-way".[^1] [The point of a weight room isn't to move weights in
+way".[^1] The point of a weight room isn't to move weights in
 any old way. It's to develop your strength and endurance, by developing
 your ability to move weights under your own power. There are certainly
 places where we need to use forklifts, but the weight room isn't that
