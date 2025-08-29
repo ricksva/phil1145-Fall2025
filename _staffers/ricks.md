@@ -3,7 +3,7 @@ name: Vance Ricks
 role: Instructor
 email: v.ricks@northeastern.edu
 website: 
-photo: staff/vance-simpsonized.jpg
+photo: /assets/images/staff/vance-simpsonized.jpg
 appointment-hours: Mondays, Tuesdays, and Friday afternoons 12 - 1 (and by appointment at other times, if needed)
 ---
 ## Who are you?
