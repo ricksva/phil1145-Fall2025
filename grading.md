@@ -78,13 +78,11 @@ grade of "A" or "A-"). In that case, your course grade would be a "B+"
 at best, because that's the highest row that your assignments satisfy
 *all* the columns of.
 
-+:---------:+:------------:+:------------:+:------------:+:------------:+:------------:+:-------------:+
-|           | **Assignments**                                                          |               |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| **Overall | First-week   | Reading      | Socratic     | Prep         | In-class     | Concluding    |
+| **Overall | First-week   | **Reading      | Socratic     | Prep         | In-class     | Concluding    |
 | Course    | Reflection   | Responses    | Circle memos | document     | activities   | assignment    |
 | Grade**   |              | and Podcast  |              | annotations  |              |               |
-|           |              | Analysis     |              |              |              |               |
+|           |              | Analysis**     |              |              |              |               |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
 | "A"       | Pass this    | Pass all 3   | Pass all 10  | Pass all 20  | Pass at      | Pass          |
 |           |              |              |              |              | least 15     |               |
