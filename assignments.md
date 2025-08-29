@@ -19,7 +19,7 @@ that.
 
 1. First week reflection
 
-1. Writing Assignments: TwReading Responses (2), Podcast Analysis (1)
+1. Writing Assignments: Reading Responses (2), Podcast Analysis (1)
 
 1. Socratic Circle memos (10)
 
