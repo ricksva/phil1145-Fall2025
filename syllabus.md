@@ -5,15 +5,11 @@ title: Course Syllabus
   <summary>
     Course Syllabus
   </summary>
-  {: .text-delta }
+  {: .no_toc .text-delta }
 1. TOC
 {:toc}
 </details>
 
-
-"Technology is neither good nor bad, nor is it neutral."
-
--Melvin Kranzberg, "Technology and History"
 
 ## What's this course about?
 
