@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Style
+title: Instructor and Student Uses of Generative AI
 permalink: /policies/generativeAI/
 parent: Policies
 nav_order: 2
