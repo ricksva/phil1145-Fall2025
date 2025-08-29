@@ -14,17 +14,17 @@ be a financial hardship, then please talk to me right away.**
 ALWAYS bring the materials that were assigned for that day's class, to that
 day's class!
 
-1.  [Ethics for people who work in tech]{.underline}, Marc Steen
+1.  _Ethics for people who work in tech_, Marc Steen
     (paperback, CRC Press 2023)
 
-2.  [The Right To Oblivion]{.underline}, Lowry Pressly (Harvard
+2.  _The Right To Oblivion_, Lowry Pressly (Harvard
     University Press 2024)
 
-3.  [How to Do Nothing]{.underline}, Jenny Odell (paperback, Melville
+3.  _How to Do Nothing_, Jenny Odell (paperback, Melville
     House 2019)]
 
 4.  Other readings and materials given as printed handouts or on the
-    course Canvas site and this site]
+    course Canvas site and this site
 
 5.  A paper notebook or notepad, dedicated to use in this
     course
