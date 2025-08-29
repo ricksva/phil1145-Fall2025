@@ -17,10 +17,10 @@ nav_order: 6
 
 ## Office Location - Renaissance Park office building, room 432
 ![Renaissance Park office building](/assets/images/RPbldg.jpg)
-"This is the office building"
+This is the office building
 #
 ![Renaissance Park office building](/assets/images/RPgarage.jpg)
-"This is NOT the office building"
+This is NOT the office building
 
 
 
