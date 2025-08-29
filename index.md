@@ -13,6 +13,10 @@ nav_exclude: true
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
+> "Technology is neither good nor bad, nor is it neutral."
+>
+> -Melvin Kranzberg, "Technology and History"
+
 ## This course meets: Tuesday and Friday mornings 8 - 9:40 in Hayden Hall 012
 
 ## What's this course about?
