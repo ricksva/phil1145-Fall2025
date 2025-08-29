@@ -3,7 +3,7 @@ layout: page
 title: Instructor and Student Uses of Generative AI
 permalink: /syllabus/generativeAI/
 parent: Syllabus
-nav_order: 2
+nav_order: 1
 ---
 
 ## (How) can you and I use generative "AI" in this class?
