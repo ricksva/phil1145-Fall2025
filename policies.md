@@ -3,7 +3,6 @@ layout: page
 title: Policies
 permalink: /policies/
 nav_order: 7
-has_children: true
 ---
 
 ## How much time will I need to devote to this course?
