@@ -2,9 +2,16 @@
 layout: page
 title: Course Syllabus
 permalink: /syllabus/
-nav_order: 2
-has_toc: true
+nav_order: 1
 ---
+# In-Page Navigation
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## What's this course about?
 
