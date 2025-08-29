@@ -1,13 +1,11 @@
-<details open markdown="block">
-  <summary>
-Course Syllabus
-  </summary>
-  {: .no_toc }
+layout: page
+title: Course Syllabus
+permalink: /syllabus/
+nav_order: 2
+has_toc: true
 
 1. TOC
 {:toc}
-</details>
-
 
 ## What's this course about?
 
