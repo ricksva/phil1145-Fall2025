@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Required Course Texts and Materials
-nav_order: 5
+nav_order: 3
 ---
 
 ## What are the course texts and other materials?
