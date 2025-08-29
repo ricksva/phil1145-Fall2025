@@ -2,7 +2,7 @@
 layout: page
 title: Instructor and Student Uses of Generative AI
 permalink: /syllabus/generativeAI/
-parent: Syllabus
+parent: Course Syllabus
 nav_order: 1
 ---
 
