@@ -128,13 +128,13 @@ be a financial hardship, then please talk to me right away.** ALWAYS
 bring the materials that were assigned for that day's class, to that
 day's class!
 
-1.  [Ethics for people who work in tech], Marc Steen
+1.  _Ethics for people who work in tech_, Marc Steen
     (paperback, CRC Press 2023)
 
-2.  [The Right To Oblivion], Lowry Pressly (Harvard
+2.  _The Right To Oblivion_, Lowry Pressly (Harvard
     University Press 2024)
 
-3.  [How to Do Nothing], Jenny Odell (paperback, Melville
+3.  _How to Do Nothing_, Jenny Odell (paperback, Melville
     House 2019)
 
 4.  Other readings and materials given as printed handouts or on the
