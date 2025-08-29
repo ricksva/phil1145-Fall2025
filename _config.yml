@@ -35,7 +35,8 @@ permalink: pretty
 #  Just the Class on GitHub:
 #    - 'https://github.com/kevinlin1/just-the-class'
 footer_content: "&copy; 2025 Vance Ricks. Released under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA</a> license"
-
+back_to_top: true
+back_to_top_text: "Back to top"
 
 # Collections for website data
 collections:
