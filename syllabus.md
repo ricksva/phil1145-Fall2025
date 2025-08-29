@@ -4,7 +4,7 @@ title: Course Syllabus
 permalink: /syllabus/
 nav_order: 1
 ---
-# In-Page Navigation
+# Course Syllabus
 {: .no_toc }
 
 ## Table of Contents
