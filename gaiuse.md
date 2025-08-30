@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructor and Student Uses of Generative AI
-permalink: /syllabus/generativeAI/
+permalink: /syllabus/gaiuse/
 parent: Course Syllabus
 nav_order: 1
 ---
@@ -70,8 +70,8 @@ main use threatens the learning of the very skills that they say
 they value!
 
 ## The Bottom Line
-**For all the cases below, you need to complete the Generative Model
-Citation Worksheet and include it with your submission**.
+**For all the cases below, you need to complete the [Generative Model
+Citation Worksheet]({{ site.baseurl }}{% link syllabus/gaicitations.md %}) and include it with your submission**.
 
 **Using generative models on any of the other course assignments is an academic
 integrity violation and, likely, self-defeating.** I won't go out of my way to try
