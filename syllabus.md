@@ -456,9 +456,6 @@ other people unless I say you can. To see Northeastern's full Academic
 Honesty and Integrity Policy, go to
 [https://osccr.sites.northeastern.edu/academic-integrity-policy/](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
 
-## (How) can you and I use generative "AI" in this class?
-See the [Generative AI Use]({{ site.baseurl }}{% link gaiuse.md %}) page.
-
 ## What kinds of assignments will we have in this course?
 
 The assignments are listed below and described more fully in a separate
@@ -565,7 +562,9 @@ was due earlier.
 extension for an assignment because of a serious illness or some
 similarly serious situation, then please let me know, as early as
 possible.
- 
+
+ ## (How) can you and I use generative "AI" in this class?
+See the [Generative AI Use]({{ site.baseurl }}{% link gaiuse.md %}) page.
 
 ## What should I do if I'm struggling to do an assignment?
 
