@@ -110,7 +110,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>A-</strong></td>
 <td>Pass this</td>
 <td>Pass all 3</td>
-<td>Pass all 9</td>
+<td>Pass at least 9</td>
 <td>Pass all 19</td>
 <td>Pass at least 15</td>
 <td>Pass</td>
