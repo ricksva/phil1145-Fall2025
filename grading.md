@@ -78,48 +78,6 @@ grade of "A" or "A-"). In that case, your course grade would be a "B+"
 at best, because that's the highest row that your assignments satisfy
 *all* the columns of.
 
-
-|Course Grade|Reflection|Responses and Analysis|Socratic memos|Prep doc annotations|ICAs|Concluding Assignment|
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "A"       | Pass this    | Pass all 3   | Pass all 10  | Pass all 20  | Pass at least 15     | Pass          |
-|           |              |              |              |              |  |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "A-"      | Pass this    | Pass all 3   | Pass 9       | Pass 19      | Pass at least 15    | Pass          |
-|           |              |              |              |              |     |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "B+"      | Pass this    | Pass 2 of 3  | Pass at least 8    | Pass at least 18      | Pass at most 14 | Pass          |
-|           |              |              |    |   |            |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "B"       | Pass all     | Pass 2 of 3  | Pass at      | Pass at      | Pass at most | Pass          |
-|           | three of     |              | least 8      | least 17     | 14           |               |
-|           | these        |              |              |              |              |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "B-"      | Pass all     | Pass 2 of 3  | Pass at      | Pass at      | Pass at most | Pass          |
-|           | three of     |              | least 7      | least 16     | 13           |               |
-|           | these        |              |              |              |              |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "C+"      | Pass this    | Pass 1 of 3  | Pass at      | Pass at      | Pass at most | Pass          |
-|           |              |              | least 6      | least 15     | 12           |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "C"       | Pass this    | Pass 1 of 3  | Pass at      | Pass at      | Pass at most | Pass          |
-|           |              |              | least 6      | least 14     | 12           |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "C-"      | Pass this    | Pass 1 of 3  | Pass at      | Pass at      | Pass at most | No pass       |
-|           |              |              | least 5      | least 13     | 10           |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "D+"      | Fail this    | Pass 0 of 3  | Pass at      | Pass at      | Pass at most | No pass       |
-|           |              |              | least 4      | least 12     | 9            |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "D"       | Fail this    | Pass 0 of 3  | Pass at      | Pass at      | Pass at most | No pass       |
-|           |              |              | least 4      | least 11     | 8            |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "D-"      | Fail this    | Pass 0 of 3  | Pass at      | Pass at      | Pass at most | No pass       |
-|           |              |              | least 3      | least 10     | 7            |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-| "F"       | Fail this    | Pass 0 of 3  | Pass at most | Pass at most | Pass at most | No pass       |
-|           |              |              | 2            | 9            | 6            |               |
-+-----------+--------------+--------------+--------------+--------------+--------------+---------------+
-
 <table>
 <thead>
 <tr>
@@ -238,10 +196,14 @@ at best, because that's the highest row that your assignments satisfy
 <td>Pass at most 7</td>
 <td>No pass</td><td></td>
 </tr>
-<td></td>
-<td>3 or fewer</td>
-<td>50% or better</td>
-<td>any</td>
+<tr>
+<td><strong>F</strong></td>
+<td>Fail this</td>
+<td>Pass 0 of 3</td>
+<td>Pass at most 2</td>
+<td>Pass at most 9</td>
+<td>Pass at most 6</td>
+<td>No pass</td>
 </tr>
 </tbody>
 </table>
