@@ -136,94 +136,108 @@ at best, because that's the highest row that your assignments satisfy
 <th><strong>Prep Document Annotations</strong></th>
 <th><strong>In-Class Activities</strong></th>
 <th><strong>Concluding Assignment</strong></th>
-<th>HW Average</th>
-<th>Lab Participation</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>A</strong></td>
-<td>11+</td>
-<td>1 or fewer</td>
-<td>0</td>
-<td>80% or better</td>
-<td>6 or more</td>
+<td>Pass this</td>
+<td>Pass all 3</td>
+<td>Pass all 10</td>
+<td>Pass all 20</td>
+<td>Pass at least 15</td>
+<td>Pass</td>
 </tr>
 <tr>
 <td><strong>A-</strong></td>
-<td>11+</td>
-<td>1 or fewer</td>
-<td>0</td>
-<td>80% or better</td>
-<td>any</td>
+<td>Pass this</td>
+<td>Pass all 3</td>
+<td>Pass all 9</td>
+<td>Pass all 19</td>
+<td>Pass at least 15</td>
+<td>Pass</td>
 </tr>
 <tr>
 <td><strong>B+</strong></td>
-<td>9+</td>
-<td>3 or fewer</td>
-<td>0</td>
-<td>70% or better</td>
-<td>8 or more</td>
+<td>Pass this</td>
+<td>Pass 2 out of 3</td>
+<td>Pass at least 8</td>
+<td>Pass at least 18</td>
+<td>Pass at most 14</td>
+<td>Pass</td>
 </tr>
 <tr>
 <td><strong>B</strong></td>
-<td>9+</td>
-<td>3 or fewer</td>
-<td>0</td>
-<td>70% or better</td>
-<td>6 or more</td>
+<td>Pass this</td>
+<td>Pass 2 of 3</td>
+<td>Pass at least 8</td>
+<td>Pass at least 17</td>
+<td>Pass at most 14</td>
+<td>Pass</td>
 </tr>
 <tr>
 <td><strong>B-</strong></td>
-<td>9+</td>
-<td>3 or fewer</td>
-<td>0</td>
-<td>70% or better</td>
-<td>any</td>
+<td>Pass this</td>
+<td>Pass 2 of 3</td>
+<td>Pass at least 7</td>
+<td>Pass at least 16</td>
+<td>Pass at most 13</td>
+<td>Pass</td>
 </tr>
 <tr>
 <td><strong>C+</strong></td>
-<td>7+</td>
-<td>5 or fewer</td>
-<td>0</td>
-<td>60% or better</td>
-<td>8 or more</td>
+<td>Pass this</td>
+<td>Pass 1 of 3</td>
+<td>Pass at least 6</td>
+<td>Pass at least 15</td>
+<td>Pass at most 12</td>
+<td>Pass</td>
 </tr>
 <tr>
 <td><strong>C</strong></td>
-<td>7+</td>
-<td>5 or fewer</td>
-<td>0</td>
-<td>60% or better</td>
-<td>6 or more</td>
+<td>Pass this</td>
+<td>Pass 1 of 3</td>
+<td>Pass at least 6</td>
+<td>Pass at least 14</td>
+<td>Pass at most 10</td>
+<td>Pass</td>
 </tr>
 <tr>
 <td><strong>C-</strong></td>
-<td>7+</td>
-<td>5 or fewer</td>
-<td>0</td>
-<td>60% or better</td>
-<td>any</td>
+<td>Pass this</td>
+<td>Pass 1 of 3</td>
+<td>Pass at least 5</td>
+<td>Pass at least 13</td>
+<td>Pass at most 10</td>
+<td>No pass</td>
 </tr>
 <tr>
 <td><strong>D+</strong></td>
-<td></td>
-<td></td>
-<td>3 or fewer</td>
-<td>50% or better</td>
-<td>8 or more</td>
+<td>Fail this</td>
+<td>Pass 0 of 3</td>
+<td>Pass at least 4</td>
+<td>Pass at least 12</td>
+<td>Pass at most 9</td>
+<td>No pass</td>
 </tr>
 <tr>
 <td><strong>D</strong></td>
-<td></td>
-<td></td>
-<td>3 or fewer</td>
-<td>50% or better</td>
-<td>6 or more</td>
+<td>Fail this</td>
+<td>Pass 0 of 3</td>
+<td>Pass at least 4</td>
+<td>Pass at least 11</td>
+<td>Pass at most 8</td>
+<td>No pass</td>
 </tr>
 <tr>
 <td><strong>D-</strong></td>
-<td></td>
+<td>Fail this</td>
+<td>Pass 0 of 3</td>
+<td>Pass at least 3</td>
+<td>Pass at least 10</td>
+<td>Pass at most 7</td>
+<td>No pass</td><td></td>
+</tr>
 <td></td>
 <td>3 or fewer</td>
 <td>50% or better</td>
