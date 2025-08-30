@@ -52,8 +52,7 @@ assignment. You must also include citations in your paper; see below.**
     should I take into consideration for next time -- either about
     students' uses of generative models in this course, or about my own?
 
-**How to cite the model itself (this belongs in the Works
-Cited/Bibliography section of your case study paper -- do this for
+**How to cite the model itself (do this for
 *each* of the *models* that you used, NOT for each *occasion* of use):**
 
 The basic citation format looks like this:
