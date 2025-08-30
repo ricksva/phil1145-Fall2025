@@ -12,7 +12,7 @@ Different courses call for different approaches to the use of different
 technological systems, both for instructors and for students.
 
 I don't use generative AI in this course for many reasons, including
-some that I explain below.
+some that I explain below in the "Rationale" section.
 - I don't use it in my correspondence with you.
 - I don't use it to produce my notes or class material or to summarize
 that material.
