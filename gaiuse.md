@@ -71,7 +71,7 @@ they value!
 
 ## The Bottom Line
 **For all the cases below, you need to complete the [Generative Model
-Citation Worksheet]({{ site.baseurl }}{% link syllabus/gaicitations.md %}) and include it with your submission**.
+Citation Worksheet]({{ site.baseurl }}{% link gaicitations.md %}) and include it with your submission**.
 
 **Using generative models on any of the other course assignments is an academic
 integrity violation and, likely, self-defeating.** I won't go out of my way to try
