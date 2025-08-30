@@ -119,3 +119,112 @@ at best, because that's the highest row that your assignments satisfy
 | "F"       | Fail this    | Pass 0 of 3  | Pass at most | Pass at most | Pass at most | No pass       |
 |           |              |              | 2            | 9            | 6            |               |
 +-----------+--------------+--------------+--------------+--------------+--------------+---------------+
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th colspan="3" align="center">Skills Needed (out of 12 total)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>Grade</th>
+<th><strong>Meets Expectations</strong></th>
+<th><strong>Approaching Expectations</strong></th>
+<th><strong>Not Approaching</strong></th>
+<th>HW Average</th>
+<th>Lab Participation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A</strong></td>
+<td>11+</td>
+<td>1 or fewer</td>
+<td>0</td>
+<td>80% or better</td>
+<td>6 or more</td>
+</tr>
+<tr>
+<td><strong>A-</strong></td>
+<td>11+</td>
+<td>1 or fewer</td>
+<td>0</td>
+<td>80% or better</td>
+<td>any</td>
+</tr>
+<tr>
+<td><strong>B+</strong></td>
+<td>9+</td>
+<td>3 or fewer</td>
+<td>0</td>
+<td>70% or better</td>
+<td>8 or more</td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>9+</td>
+<td>3 or fewer</td>
+<td>0</td>
+<td>70% or better</td>
+<td>6 or more</td>
+</tr>
+<tr>
+<td><strong>B-</strong></td>
+<td>9+</td>
+<td>3 or fewer</td>
+<td>0</td>
+<td>70% or better</td>
+<td>any</td>
+</tr>
+<tr>
+<td><strong>C+</strong></td>
+<td>7+</td>
+<td>5 or fewer</td>
+<td>0</td>
+<td>60% or better</td>
+<td>8 or more</td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>7+</td>
+<td>5 or fewer</td>
+<td>0</td>
+<td>60% or better</td>
+<td>6 or more</td>
+</tr>
+<tr>
+<td><strong>C-</strong></td>
+<td>7+</td>
+<td>5 or fewer</td>
+<td>0</td>
+<td>60% or better</td>
+<td>any</td>
+</tr>
+<tr>
+<td><strong>D+</strong></td>
+<td></td>
+<td></td>
+<td>3 or fewer</td>
+<td>50% or better</td>
+<td>8 or more</td>
+</tr>
+<tr>
+<td><strong>D</strong></td>
+<td></td>
+<td></td>
+<td>3 or fewer</td>
+<td>50% or better</td>
+<td>6 or more</td>
+</tr>
+<tr>
+<td><strong>D-</strong></td>
+<td></td>
+<td></td>
+<td>3 or fewer</td>
+<td>50% or better</td>
+<td>any</td>
+</tr>
+</tbody>
+</table>
