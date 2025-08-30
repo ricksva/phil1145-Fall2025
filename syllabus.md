@@ -563,7 +563,7 @@ extension for an assignment because of a serious illness or some
 similarly serious situation, then please let me know, as early as
 possible.
 
- ## (How) can you and I use generative "AI" in this class?
+## (How) can you and I use generative "AI" in this class?
 See the [Generative AI Use]({{ site.baseurl }}{% link gaiuse.md %}) page.
 
 ## What should I do if I'm struggling to do an assignment?
