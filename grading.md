@@ -110,7 +110,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>A-</strong></td>
 <td>Pass this</td>
 <td>Pass all 3</td>
-<td>Pass at least 9</td>
+<td>Pass at most 9</td>
 <td>Pass at least 19</td>
 <td>Pass at least 15</td>
 <td>Pass</td>
@@ -119,7 +119,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>B+</strong></td>
 <td>Pass this</td>
 <td>Pass 2 of 3</td>
-<td>Pass at least 8</td>
+<td>Pass at most 8</td>
 <td>Pass at least 18</td>
 <td>Pass at most 14</td>
 <td>Pass</td>
@@ -128,7 +128,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>B</strong></td>
 <td>Pass this</td>
 <td>Pass 2 of 3</td>
-<td>Pass at least 8</td>
+<td>Pass at most 8</td>
 <td>Pass at least 17</td>
 <td>Pass at most 14</td>
 <td>Pass</td>
@@ -137,7 +137,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>B-</strong></td>
 <td>Pass this</td>
 <td>Pass 2 of 3</td>
-<td>Pass at least 7</td>
+<td>Pass at most 7</td>
 <td>Pass at least 16</td>
 <td>Pass at most 13</td>
 <td>Pass</td>
@@ -146,7 +146,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>C+</strong></td>
 <td>Pass this</td>
 <td>Pass 1 of 3</td>
-<td>Pass at least 6</td>
+<td>Pass at most 6</td>
 <td>Pass at least 15</td>
 <td>Pass at most 12</td>
 <td>Pass</td>
@@ -155,7 +155,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>C</strong></td>
 <td>Pass this</td>
 <td>Pass 1 of 3</td>
-<td>Pass at least 6</td>
+<td>Pass at most 6</td>
 <td>Pass at least 14</td>
 <td>Pass at most 10</td>
 <td>Pass</td>
@@ -164,7 +164,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>C-</strong></td>
 <td>Pass this</td>
 <td>Pass 1 of 3</td>
-<td>Pass at least 5</td>
+<td>Pass at most 5</td>
 <td>Pass at least 13</td>
 <td>Pass at most 10</td>
 <td>No pass</td>
@@ -173,7 +173,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>D+</strong></td>
 <td>Fail this</td>
 <td>Pass 0 of 3</td>
-<td>Pass at least 4</td>
+<td>Pass at most 4</td>
 <td>Pass at least 12</td>
 <td>Pass at most 9</td>
 <td>No pass</td>
@@ -182,7 +182,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>D</strong></td>
 <td>Fail this</td>
 <td>Pass 0 of 3</td>
-<td>Pass at least 4</td>
+<td>Pass at most 4</td>
 <td>Pass at least 11</td>
 <td>Pass at most 8</td>
 <td>No pass</td>
@@ -191,7 +191,7 @@ at best, because that's the highest row that your assignments satisfy
 <td><strong>D-</strong></td>
 <td>Fail this</td>
 <td>Pass 0 of 3</td>
-<td>Pass at least 3</td>
+<td>Pass at most 3</td>
 <td>Pass at least 10</td>
 <td>Pass at most 7</td>
 <td>No pass</td><td></td>
