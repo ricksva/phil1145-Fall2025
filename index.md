@@ -45,3 +45,12 @@ noticing that our technologies embody various philosophical and
 sociopolitical choices about things like *well-being*, *autonomy*,
 *health*, and *meaning*. This course is, fundamentally, about those
 things.
+
+## Course Materials and Communication
+
+There are three primary sources of communication for this course:
+
+This website. This is where you will find announcements, policies, course assignments, and reading materials.
+Canvas. That's where you will submit the course assignments and get my comments on them. That's also where you'll see your grades for the assignments, and the gradebook.
+Discord. Please join at ___. Note you must set your Display Name for the server to your full name before you will be given access to private course channels. This will be a place for any discussion that are not direct questions about homework (which should take place on Pawtograder). Discord will also be used for lab communication (each lab will have a private channel), for announcements about the course. For any questions that are not specifically about homework.
+Note that we will not use Canvas for anything other than uploading the course assignments.
