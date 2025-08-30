@@ -67,7 +67,7 @@ questions you have about this form of grading!
 ## If the assignments don't have percentages, then how will I know what my overall course grade is?
 
 The table below shows what combination of *passing grades* on the
-assignments corresponds to which overall course grade range. Your course
+assignments corresponds to which overall course grade. Your course
 grade will be the highest row that your assignments satisfy *all* the
 columns of.
 
