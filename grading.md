@@ -111,14 +111,14 @@ at best, because that's the highest row that your assignments satisfy
 <td>Pass this</td>
 <td>Pass all 3</td>
 <td>Pass at least 9</td>
-<td>Pass all 19</td>
+<td>Pass at least 19</td>
 <td>Pass at least 15</td>
 <td>Pass</td>
 </tr>
 <tr>
 <td><strong>B+</strong></td>
 <td>Pass this</td>
-<td>Pass 2 out of 3</td>
+<td>Pass 2 of 3</td>
 <td>Pass at least 8</td>
 <td>Pass at least 18</td>
 <td>Pass at most 14</td>
