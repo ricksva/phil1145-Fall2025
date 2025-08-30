@@ -124,15 +124,18 @@ at best, because that's the highest row that your assignments satisfy
 <thead>
 <tr>
 <th></th>
-<th colspan="3" align="center">Skills Needed (out of 12 total)</th>
+<th colspan="3" align="center">Assignments</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
-<th>Grade</th>
-<th><strong>Meets Expectations</strong></th>
-<th><strong>Approaching Expectations</strong></th>
-<th><strong>Not Approaching</strong></th>
+<th>Overall Course Grade</th>
+<th><strong>First-week Reflection</strong></th>
+<th><strong>Reading Responses and Podcast Analysis</strong></th>
+<th><strong>Socratic Circle Memos</strong></th>
+<th><strong>Prep Document Annotations</strong></th>
+<th><strong>In-Class Activities</strong></th>
+<th><strong>Concluding Assignment</strong></th>
 <th>HW Average</th>
 <th>Lab Participation</th>
 </tr>
